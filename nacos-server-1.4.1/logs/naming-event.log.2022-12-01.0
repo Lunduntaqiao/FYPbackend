@@ -1,0 +1,330 @@
+2022-12-01 12:52:49,747 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 12:52:49,750 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 10.9.193.99:10010_true,
+
+2022-12-01 12:52:53,370 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 12:52:53,370 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 12:52:58,171 INFO DEFAULT_GROUP@@userinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8089:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 12:52:58,171 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userinfo, ips: 10.9.193.99:8089_true,
+
+2022-12-01 12:53:01,516 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 12:53:01,516 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 10.9.193.99:8088_true,
+
+2022-12-01 12:53:35,656 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 12:53:35,656 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 12:53:55,429 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 12:53:55,430 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 12:55:36,574 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 12:55:36,574 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 12:55:56,445 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 12:55:56,445 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 13:08:35,532 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:08:35,532 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 13:08:51,988 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:08:51,988 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 13:10:29,555 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:10:29,555 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 13:10:46,889 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:10:46,889 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 13:17:54,892 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:17:54,892 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 13:18:11,231 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:18:11,231 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 13:25:27,729 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:25:27,729 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 13:25:45,676 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:25:45,676 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 13:26:33,117 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:26:33,117 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 13:26:48,200 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:26:48,200 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 13:27:46,958 INFO {POS} {IP-DISABLED} valid: 10.9.193.99:8087@DEFAULT@DEFAULT_GROUP@@postinfo, region: unknown, msg: client timeout after 15000, last beat: 1669872449203
+
+2022-12-01 13:28:02,048 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-12-01 13:28:02,049 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 13:31:22,646 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:31:22,646 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 13:32:37,888 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:32:37,888 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 13:32:56,185 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:32:56,185 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 13:34:12,314 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:34:12,315 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 13:34:30,241 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:34:30,241 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 13:35:39,004 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:35:39,004 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 13:35:54,820 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:35:54,820 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 13:40:31,161 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:40:31,161 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 13:40:47,775 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:40:47,775 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 10.9.193.99:8088_true,
+
+2022-12-01 13:41:38,089 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:41:38,089 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-12-01 13:41:38,261 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:41:38,261 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 13:41:38,270 INFO DEFAULT_GROUP@@userinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8089:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:41:38,270 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userinfo, ips: 
+
+2022-12-01 13:41:38,295 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:41:38,295 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 13:46:04,424 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:46:04,424 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 10.9.193.99:10010_true,
+
+2022-12-01 13:46:11,176 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:46:11,176 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 13:46:14,313 INFO DEFAULT_GROUP@@userinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8089:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:46:14,313 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userinfo, ips: 10.9.193.99:8089_true,
+
+2022-12-01 13:46:19,320 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 13:46:19,320 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 10.9.193.99:8088_true,
+
+2022-12-01 14:03:49,454 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:03:49,454 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 14:04:07,866 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:04:07,867 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 10.9.193.99:8088_true,
+
+2022-12-01 14:05:26,524 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:05:26,524 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-12-01 14:05:26,691 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:05:26,691 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 14:05:26,719 INFO DEFAULT_GROUP@@userinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8089:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:05:26,719 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userinfo, ips: 
+
+2022-12-01 14:05:26,738 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:05:26,738 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 14:09:24,330 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:09:24,330 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 10.9.193.99:10010_true,
+
+2022-12-01 14:09:28,517 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:09:28,517 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 10.9.193.99:8087_true,
+
+2022-12-01 14:09:31,741 INFO DEFAULT_GROUP@@userinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8089:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:09:31,741 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userinfo, ips: 10.9.193.99:8089_true,
+
+2022-12-01 14:09:36,457 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.9.193.99:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:09:36,457 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 10.9.193.99:8088_true,
+
+2022-12-01 14:10:09,833 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:10:09,833 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-12-01 14:10:09,994 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:10:09,994 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 14:10:10,051 INFO DEFAULT_GROUP@@userinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8089:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:10:10,051 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userinfo, ips: 
+
+2022-12-01 14:10:10,067 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.9.193.99:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 14:10:10,067 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 17:14:47,795 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:14:47,799 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.0.105:10010_true,
+
+2022-12-01 17:14:54,503 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:14:54,503 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 192.168.0.105:8087_true,
+
+2022-12-01 17:14:58,539 INFO DEFAULT_GROUP@@userinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8089:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:14:58,540 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userinfo, ips: 192.168.0.105:8089_true,
+
+2022-12-01 17:15:04,023 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:15:04,023 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 192.168.0.105:8088_true,
+
+2022-12-01 17:16:16,468 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:16:16,468 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 17:16:42,305 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:16:42,305 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 192.168.0.105:8088_true,
+
+2022-12-01 17:17:44,255 INFO {POS} {IP-DISABLED} valid: 192.168.0.105:8088@DEFAULT@DEFAULT_GROUP@@favorinfo, region: unknown, msg: client timeout after 15000, last beat: 1669886244904
+
+2022-12-01 17:17:59,345 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-12-01 17:17:59,345 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 17:18:27,046 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:18:27,046 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 192.168.0.105:8088_true,
+
+2022-12-01 17:19:25,874 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:19:25,874 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 17:19:41,567 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:19:41,568 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 192.168.0.105:8088_true,
+
+2022-12-01 17:20:39,593 INFO {POS} {IP-DISABLED} valid: 192.168.0.105:8088@DEFAULT@DEFAULT_GROUP@@favorinfo, region: unknown, msg: client timeout after 15000, last beat: 1669886423691
+
+2022-12-01 17:20:48,712 INFO service: DEFAULT_GROUP@@favorinfo {POS} {IP-ENABLED} valid: 192.168.0.105:8088@DEFAULT, region: unknown, msg: client beat ok
+
+2022-12-01 17:20:48,864 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:20:48,864 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 17:21:08,485 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:21:08,485 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 192.168.0.105:8088_true,
+
+2022-12-01 17:22:29,750 INFO {POS} {IP-DISABLED} valid: 192.168.0.105:8088@DEFAULT@DEFAULT_GROUP@@favorinfo, region: unknown, msg: client timeout after 15000, last beat: 1669886534345
+
+2022-12-01 17:22:34,042 INFO service: DEFAULT_GROUP@@favorinfo {POS} {IP-ENABLED} valid: 192.168.0.105:8088@DEFAULT, region: unknown, msg: client beat ok
+
+2022-12-01 17:22:34,203 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:22:34,203 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 17:22:53,892 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:22:53,892 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 192.168.0.105:8088_true,
+
+2022-12-01 17:27:38,180 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:27:38,181 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 17:27:56,021 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:27:56,021 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 192.168.0.105:8088_true,
+
+2022-12-01 17:28:18,842 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:28:18,842 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 17:28:35,315 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:28:35,315 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 192.168.0.105:8088_true,
+
+2022-12-01 17:29:13,243 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:29:13,243 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 17:29:30,528 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:29:30,528 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 192.168.0.105:8088_true,
+
+2022-12-01 17:30:15,575 INFO {POS} {IP-DISABLED} valid: 192.168.0.105:8088@DEFAULT@DEFAULT_GROUP@@favorinfo, region: unknown, msg: client timeout after 15000, last beat: 1669887000006
+
+2022-12-01 17:30:23,170 INFO service: DEFAULT_GROUP@@favorinfo {POS} {IP-ENABLED} valid: 192.168.0.105:8088@DEFAULT, region: unknown, msg: client beat ok
+
+2022-12-01 17:30:40,609 INFO {POS} {IP-DISABLED} valid: 192.168.0.105:8088@DEFAULT@DEFAULT_GROUP@@favorinfo, region: unknown, msg: client timeout after 15000, last beat: 1669887023170
+
+2022-12-01 17:30:55,633 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-12-01 17:30:55,633 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 17:30:59,217 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:30:59,218 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 192.168.0.105:8088_true,
+
+2022-12-01 17:50:22,186 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:50:22,186 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+
+2022-12-01 17:50:43,268 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:50:43,268 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 192.168.0.105:8088_true,
+
+2022-12-01 17:51:32,132 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:51:32,132 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-12-01 17:51:32,312 INFO DEFAULT_GROUP@@postinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:51:32,312 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@postinfo, ips: 
+
+2022-12-01 17:51:32,321 INFO DEFAULT_GROUP@@userinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8089:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:51:32,322 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userinfo, ips: 
+
+2022-12-01 17:51:32,346 INFO DEFAULT_GROUP@@favorinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.105:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-12-01 17:51:32,346 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@favorinfo, ips: 
+

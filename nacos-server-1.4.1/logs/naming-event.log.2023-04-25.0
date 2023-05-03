@@ -1,0 +1,120 @@
+2023-04-25 17:29:33,900 INFO DEFAULT_GROUP@@attendinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 17:29:33,905 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@attendinfo, ips: 192.168.0.104:8087_true,
+
+2023-04-25 17:29:33,908 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 17:29:33,909 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 192.168.0.104:8082_true,
+
+2023-04-25 17:29:34,901 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 17:29:34,901 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.0.104:10010_true,
+
+2023-04-25 17:49:26,210 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 17:49:26,211 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2023-04-25 17:49:26,397 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 17:49:26,397 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 
+
+2023-04-25 17:49:26,408 INFO DEFAULT_GROUP@@attendinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 17:49:26,408 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@attendinfo, ips: 
+
+2023-04-25 18:07:02,689 INFO DEFAULT_GROUP@@attendinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 18:07:02,691 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@attendinfo, ips: 192.168.0.104:8087_true,
+
+2023-04-25 18:07:03,586 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 18:07:03,586 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 192.168.0.104:8082_true,
+
+2023-04-25 18:07:05,584 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 18:07:05,585 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.0.104:10010_true,
+
+2023-04-25 18:09:03,993 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 18:09:03,993 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 
+
+2023-04-25 18:09:29,258 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 18:09:29,258 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 192.168.0.104:8082_true,
+
+2023-04-25 18:15:56,745 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 18:15:56,745 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 
+
+2023-04-25 18:16:24,002 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 18:16:24,003 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 192.168.0.104:8082_true,
+
+2023-04-25 18:22:04,393 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 18:22:04,393 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2023-04-25 18:22:04,566 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 18:22:04,566 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 
+
+2023-04-25 18:22:04,630 INFO DEFAULT_GROUP@@attendinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 18:22:04,630 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@attendinfo, ips: 
+
+2023-04-25 21:54:48,510 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 21:54:48,514 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 192.168.0.104:8082_true,
+
+2023-04-25 21:54:50,158 INFO DEFAULT_GROUP@@attendinfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 21:54:50,158 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@attendinfo, ips: 192.168.0.104:8087_true,
+
+2023-04-25 21:54:53,748 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 21:54:53,748 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.0.104:10010_true,
+
+2023-04-25 22:03:02,557 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 22:03:02,557 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 
+
+2023-04-25 22:03:38,478 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 22:03:38,478 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 192.168.0.104:8082_true,
+
+2023-04-25 23:12:13,227 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 23:12:13,228 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 
+
+2023-04-25 23:12:39,169 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 23:12:39,169 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 192.168.0.104:8082_true,
+
+2023-04-25 23:12:49,107 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 23:12:49,107 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 
+
+2023-04-25 23:13:09,047 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 23:13:09,047 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 192.168.0.104:8082_true,
+
+2023-04-25 23:18:05,438 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 23:18:05,438 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 
+
+2023-04-25 23:21:01,922 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 23:21:01,922 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 192.168.0.104:8082_true,
+
+2023-04-25 23:24:20,015 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 23:24:20,015 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2023-04-25 23:24:20,316 INFO DEFAULT_GROUP@@RecogInfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 23:24:20,317 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@RecogInfo, ips: 
+
+2023-04-25 23:24:20,399 INFO DEFAULT_GROUP@@attendinfo {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-04-25 23:24:20,400 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@attendinfo, ips: 
+

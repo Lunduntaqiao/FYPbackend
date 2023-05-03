@@ -1,0 +1,122 @@
+2022-12-04 15:03:41,703 INFO raft peers changed: [Member{ip='10.8.225.250', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2022-12-04 15:03:41,734 INFO initializing Raft sub-system
+
+2022-12-04 15:03:41,734 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2022-12-04 15:03:41,750 INFO cache loaded, datum count: 0, current term: 0
+
+2022-12-04 15:03:41,750 INFO finish to load data from disk, cost: 16 ms.
+
+2022-12-04 15:03:41,750 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2022-12-04 15:03:42,297 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2022-12-04 15:03:42,312 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2022-12-04 15:03:46,704 WARN start to close old raft protocol!!!
+
+2022-12-04 15:03:46,704 WARN stop old raft protocol task for notifier
+
+2022-12-04 15:03:46,704 WARN stop old raft protocol task for master task
+
+2022-12-04 15:03:46,704 WARN stop old raft protocol task for heartbeat task
+
+2022-12-04 15:03:46,704 WARN clean old cache datum for old raft
+
+2022-12-04 15:03:46,704 WARN start to close old raft protocol!!!
+
+2022-12-04 15:03:46,704 WARN stop old raft protocol task for notifier
+
+2022-12-04 15:03:46,704 WARN stop old raft protocol task for master task
+
+2022-12-04 15:03:46,704 WARN stop old raft protocol task for heartbeat task
+
+2022-12-04 15:03:46,704 WARN clean old cache datum for old raft
+
+2022-12-04 15:03:46,704 WARN start to move old raft protocol metadata
+
+2022-12-04 15:03:46,707 WARN start to move old raft protocol metadata
+
+2022-12-04 15:03:46,707 INFO raft peers changed: [Member{ip='10.8.225.250', port=8848, state=UP, extendInfo={lastRefreshTime=1670137426707, raftPort=7848, version=1.4.1}}]
+
+2022-12-04 15:04:17,254 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-12-04 15:05:44,942 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@postinfo
+
+2022-12-04 15:05:47,775 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@userinfo
+
+2022-12-04 15:05:50,460 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@favorinfo
+
+2022-12-04 15:09:02,341 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@favorinfo
+
+2022-12-04 15:09:02,343 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway
+
+2022-12-04 15:09:02,344 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@postinfo
+
+2022-12-04 15:09:02,345 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@userinfo
+
+2022-12-04 15:11:08,616 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-12-04 15:11:13,008 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@postinfo
+
+2022-12-04 15:11:16,778 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@userinfo
+
+2022-12-04 15:11:22,610 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@favorinfo
+
+2022-12-04 15:25:32,329 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@favorinfo
+
+2022-12-04 15:25:32,330 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway
+
+2022-12-04 15:25:32,331 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@postinfo
+
+2022-12-04 15:25:32,331 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@userinfo
+
+2022-12-04 15:42:41,282 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-12-04 15:42:45,344 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@postinfo
+
+2022-12-04 15:42:47,459 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@userinfo
+
+2022-12-04 15:43:22,809 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@favorinfo
+
+2022-12-04 15:46:02,330 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@favorinfo
+
+2022-12-04 15:46:02,331 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway
+
+2022-12-04 15:46:02,332 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@postinfo
+
+2022-12-04 15:46:02,333 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@userinfo
+
+2022-12-04 15:56:41,937 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-12-04 15:56:46,782 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@postinfo
+
+2022-12-04 15:56:50,919 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@userinfo
+
+2022-12-04 15:56:55,358 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@favorinfo
+
+2022-12-04 16:12:32,322 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@favorinfo
+
+2022-12-04 16:12:32,322 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway
+
+2022-12-04 16:12:32,322 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@postinfo
+
+2022-12-04 16:12:32,322 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@userinfo
+
+2022-12-04 16:28:52,949 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-12-04 16:29:00,316 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@postinfo
+
+2022-12-04 16:29:03,882 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@userinfo
+
+2022-12-04 16:29:11,892 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@favorinfo
+
+2022-12-04 16:46:32,336 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@favorinfo
+
+2022-12-04 16:46:32,336 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway
+
+2022-12-04 16:46:32,336 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@postinfo
+
+2022-12-04 16:46:32,336 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@userinfo
+

@@ -1,0 +1,60 @@
+2023-05-02 01:11:08,851 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:::provider:UserinfoApplication+dubbo, 1667830421287, length=9991, md5=1c36eb9f09c95b1247e8516d338c400a
+
+2023-05-02 01:11:08,853 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:1.0::provider:userinfo+dubbo, 1667915143290, length=10012, md5=444c0898650a6a2ec013715988a68d60
+
+2023-05-02 01:11:08,853 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:::provider:userinfo+dubbo, 1667913298555, length=9979, md5=5fc97966684a81ce53871febdf146f43
+
+2023-05-02 01:11:08,853 INFO [dump-all-ok] com.sz.service.HelloService:1.0.0::provider:userinfo+dubbo, 1667917453029, length=717, md5=22ff4fe6ebc45c4e584271480e27d737
+
+2023-05-02 01:11:08,854 INFO [dump-all-ok] com.sz.service.HelloService:1.0::provider:userinfo+dubbo, 1667915061014, length=713, md5=d84ad5559191bcf4d40e06ba2cb2c937
+
+2023-05-02 01:11:08,854 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:1.0.0::provider:userinfo+dubbo, 1667916087798, length=10017, md5=69811c2fec141179d663211ec504e0d8
+
+2023-05-02 01:11:08,854 INFO [dump-all-ok] com.neoniou.demo.serivce.SayService:::consumer:consumer-serivce+dubbo, 1668148791150, length=241, md5=2832b366fb519030e325236c5d2dc589
+
+2023-05-02 01:11:08,855 INFO [dump-all-ok] com.example.studentinfo.repository.StudentRepo:::provider:Studentinfo+dubbo, 1668149282742, length=9997, md5=d435a0f4bb91deffc0fc389d137fdd41
+
+2023-05-02 01:11:08,855 INFO [dump-all-ok] com.example.studentinfo.repository.StudentRepo:::provider:StudentInfoApplication+dubbo, 1668149681858, length=10006, md5=a0f3dcf76490fee8c062010d79d94390
+
+2023-05-02 01:11:08,855 INFO [dump-all-ok] com.example.studentinfo.repository.StudentRepo:1.0.0::provider:StudentInfoApplication+dubbo, 1668149890547, length=10045, md5=a8d107d313e8b92b7cd9432f1da90cdd
+
+2023-05-02 11:41:44,233 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:::provider:UserinfoApplication+dubbo, 1667830421287, length=9991, md5=1c36eb9f09c95b1247e8516d338c400a
+
+2023-05-02 11:41:44,234 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:1.0::provider:userinfo+dubbo, 1667915143290, length=10012, md5=444c0898650a6a2ec013715988a68d60
+
+2023-05-02 11:41:44,235 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:::provider:userinfo+dubbo, 1667913298555, length=9979, md5=5fc97966684a81ce53871febdf146f43
+
+2023-05-02 11:41:44,235 INFO [dump-all-ok] com.sz.service.HelloService:1.0.0::provider:userinfo+dubbo, 1667917453029, length=717, md5=22ff4fe6ebc45c4e584271480e27d737
+
+2023-05-02 11:41:44,235 INFO [dump-all-ok] com.sz.service.HelloService:1.0::provider:userinfo+dubbo, 1667915061014, length=713, md5=d84ad5559191bcf4d40e06ba2cb2c937
+
+2023-05-02 11:41:44,235 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:1.0.0::provider:userinfo+dubbo, 1667916087798, length=10017, md5=69811c2fec141179d663211ec504e0d8
+
+2023-05-02 11:41:44,235 INFO [dump-all-ok] com.neoniou.demo.serivce.SayService:::consumer:consumer-serivce+dubbo, 1668148791150, length=241, md5=2832b366fb519030e325236c5d2dc589
+
+2023-05-02 11:41:44,236 INFO [dump-all-ok] com.example.studentinfo.repository.StudentRepo:::provider:Studentinfo+dubbo, 1668149282742, length=9997, md5=d435a0f4bb91deffc0fc389d137fdd41
+
+2023-05-02 11:41:44,236 INFO [dump-all-ok] com.example.studentinfo.repository.StudentRepo:::provider:StudentInfoApplication+dubbo, 1668149681858, length=10006, md5=a0f3dcf76490fee8c062010d79d94390
+
+2023-05-02 11:41:44,236 INFO [dump-all-ok] com.example.studentinfo.repository.StudentRepo:1.0.0::provider:StudentInfoApplication+dubbo, 1668149890547, length=10045, md5=a8d107d313e8b92b7cd9432f1da90cdd
+
+2023-05-02 13:58:34,604 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:::provider:UserinfoApplication+dubbo, 1667830421287, length=9991, md5=1c36eb9f09c95b1247e8516d338c400a
+
+2023-05-02 13:58:34,606 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:1.0::provider:userinfo+dubbo, 1667915143290, length=10012, md5=444c0898650a6a2ec013715988a68d60
+
+2023-05-02 13:58:34,606 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:::provider:userinfo+dubbo, 1667913298555, length=9979, md5=5fc97966684a81ce53871febdf146f43
+
+2023-05-02 13:58:34,606 INFO [dump-all-ok] com.sz.service.HelloService:1.0.0::provider:userinfo+dubbo, 1667917453029, length=717, md5=22ff4fe6ebc45c4e584271480e27d737
+
+2023-05-02 13:58:34,607 INFO [dump-all-ok] com.sz.service.HelloService:1.0::provider:userinfo+dubbo, 1667915061014, length=713, md5=d84ad5559191bcf4d40e06ba2cb2c937
+
+2023-05-02 13:58:34,607 INFO [dump-all-ok] com.example.userinfo.repository.UserRepo:1.0.0::provider:userinfo+dubbo, 1667916087798, length=10017, md5=69811c2fec141179d663211ec504e0d8
+
+2023-05-02 13:58:34,608 INFO [dump-all-ok] com.neoniou.demo.serivce.SayService:::consumer:consumer-serivce+dubbo, 1668148791150, length=241, md5=2832b366fb519030e325236c5d2dc589
+
+2023-05-02 13:58:34,608 INFO [dump-all-ok] com.example.studentinfo.repository.StudentRepo:::provider:Studentinfo+dubbo, 1668149282742, length=9997, md5=d435a0f4bb91deffc0fc389d137fdd41
+
+2023-05-02 13:58:34,608 INFO [dump-all-ok] com.example.studentinfo.repository.StudentRepo:::provider:StudentInfoApplication+dubbo, 1668149681858, length=10006, md5=a0f3dcf76490fee8c062010d79d94390
+
+2023-05-02 13:58:34,608 INFO [dump-all-ok] com.example.studentinfo.repository.StudentRepo:1.0.0::provider:StudentInfoApplication+dubbo, 1668149890547, length=10045, md5=a8d107d313e8b92b7cd9432f1da90cdd
+

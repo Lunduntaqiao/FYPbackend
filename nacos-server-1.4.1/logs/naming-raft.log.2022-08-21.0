@@ -1,0 +1,442 @@
+2022-08-21 13:41:25,101 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@clascontro
+
+2022-08-21 13:41:25,106 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@coursecontro
+
+2022-08-21 13:41:25,107 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 13:41:25,107 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gradecontro
+
+2022-08-21 13:41:25,108 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@relationcontro
+
+2022-08-21 13:41:25,108 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@schoolcontro
+
+2022-08-21 13:41:25,108 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@studentcontro
+
+2022-08-21 13:41:25,108 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@systemcontro
+
+2022-08-21 13:41:25,108 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@teachercontro
+
+2022-08-21 13:41:25,108 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 13:41:25,108 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@wordcontro
+
+2022-08-21 14:34:38,512 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 14:35:17,995 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 14:37:55,089 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 14:37:55,090 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 15:37:05,211 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@teachercontro
+
+2022-08-21 15:37:10,899 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 15:41:25,090 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@teachercontro
+
+2022-08-21 15:41:25,091 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 15:41:55,036 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@systemcontro
+
+2022-08-21 15:44:55,095 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@systemcontro
+
+2022-08-21 15:45:09,660 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 15:45:13,665 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@clascontro
+
+2022-08-21 16:03:03,926 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 16:03:25,098 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@clascontro
+
+2022-08-21 16:10:45,274 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@wordcontro
+
+2022-08-21 16:13:59,304 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@systemcontro
+
+2022-08-21 16:16:10,066 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@schoolcontro
+
+2022-08-21 16:19:30,580 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gradecontro
+
+2022-08-21 16:22:27,213 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@clascontro
+
+2022-08-21 16:24:33,799 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@coursecontro
+
+2022-08-21 16:26:50,232 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@teachercontro
+
+2022-08-21 16:27:37,748 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@studentcontro
+
+2022-08-21 16:30:25,089 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@clascontro
+
+2022-08-21 16:30:25,089 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@coursecontro
+
+2022-08-21 16:30:25,089 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 16:30:25,089 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gradecontro
+
+2022-08-21 16:30:25,089 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@schoolcontro
+
+2022-08-21 16:30:25,089 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@studentcontro
+
+2022-08-21 16:30:25,089 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@systemcontro
+
+2022-08-21 16:30:25,089 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@teachercontro
+
+2022-08-21 16:30:25,089 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 16:30:25,089 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@wordcontro
+
+2022-08-21 16:44:00,248 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@relationcontro
+
+2022-08-21 16:44:12,778 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 16:44:16,752 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@systemcontro
+
+2022-08-21 16:44:20,435 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@schoolcontro
+
+2022-08-21 16:44:24,124 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@studentcontro
+
+2022-08-21 16:44:27,645 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@clascontro
+
+2022-08-21 16:44:31,398 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@coursecontro
+
+2022-08-21 16:44:34,515 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@wordcontro
+
+2022-08-21 16:44:38,163 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gradecontro
+
+2022-08-21 16:44:39,842 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 16:45:26,142 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@teachercontro
+
+2022-08-21 17:19:25,087 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@systemcontro
+
+2022-08-21 17:19:55,095 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@clascontro
+
+2022-08-21 17:19:55,095 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@coursecontro
+
+2022-08-21 17:19:55,095 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 17:19:55,095 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gradecontro
+
+2022-08-21 17:19:55,095 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@relationcontro
+
+2022-08-21 17:19:55,095 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@schoolcontro
+
+2022-08-21 17:19:55,095 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@studentcontro
+
+2022-08-21 17:19:55,095 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@teachercontro
+
+2022-08-21 17:19:55,095 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 17:19:55,095 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@wordcontro
+
+2022-08-21 17:24:14,284 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 17:26:55,096 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 17:32:25,560 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 17:36:55,087 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 17:47:45,398 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 17:47:53,211 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@wordcontro
+
+2022-08-21 17:47:54,082 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@studentcontro
+
+2022-08-21 17:47:54,867 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 17:58:04,136 INFO raft peers changed: [Member{ip='192.168.1.3', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2022-08-21 17:58:04,167 INFO initializing Raft sub-system
+
+2022-08-21 17:58:04,167 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2022-08-21 17:58:04,167 INFO cache loaded, datum count: 0, current term: 0
+
+2022-08-21 17:58:04,167 INFO finish to load data from disk, cost: 0 ms.
+
+2022-08-21 17:58:04,167 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2022-08-21 17:58:04,601 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2022-08-21 17:58:04,601 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2022-08-21 17:58:06,712 INFO leader timeout, start voting,leader: {"ip":"192.168.1.3:8848","term":0,"leaderDueMs":19178,"heartbeatDueMs":4500,"state":"FOLLOWER"}, term: 0
+
+2022-08-21 17:58:09,139 WARN start to close old raft protocol!!!
+
+2022-08-21 17:58:09,139 WARN stop old raft protocol task for notifier
+
+2022-08-21 17:58:09,139 WARN stop old raft protocol task for master task
+
+2022-08-21 17:58:09,139 WARN stop old raft protocol task for heartbeat task
+
+2022-08-21 17:58:09,139 WARN clean old cache datum for old raft
+
+2022-08-21 17:58:09,139 WARN start to close old raft protocol!!!
+
+2022-08-21 17:58:09,139 WARN stop old raft protocol task for notifier
+
+2022-08-21 17:58:09,139 WARN stop old raft protocol task for master task
+
+2022-08-21 17:58:09,139 WARN stop old raft protocol task for heartbeat task
+
+2022-08-21 17:58:09,139 WARN clean old cache datum for old raft
+
+2022-08-21 17:58:09,139 WARN start to move old raft protocol metadata
+
+2022-08-21 17:58:09,139 WARN start to move old raft protocol metadata
+
+2022-08-21 17:58:09,139 INFO raft peers changed: [Member{ip='192.168.1.3', port=8848, state=UP, extendInfo={lastRefreshTime=1661075889139, raftPort=7848, version=1.4.1}}]
+
+2022-08-21 18:02:25,023 INFO raft peers changed: [Member{ip='192.168.1.3', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2022-08-21 18:02:25,038 INFO initializing Raft sub-system
+
+2022-08-21 18:02:25,038 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2022-08-21 18:02:25,054 INFO cache loaded, datum count: 0, current term: 0
+
+2022-08-21 18:02:25,054 INFO finish to load data from disk, cost: 16 ms.
+
+2022-08-21 18:02:25,054 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2022-08-21 18:02:25,450 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2022-08-21 18:02:25,466 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2022-08-21 18:02:30,024 WARN start to close old raft protocol!!!
+
+2022-08-21 18:02:30,024 WARN stop old raft protocol task for notifier
+
+2022-08-21 18:02:30,024 WARN stop old raft protocol task for master task
+
+2022-08-21 18:02:30,024 WARN stop old raft protocol task for heartbeat task
+
+2022-08-21 18:02:30,024 WARN clean old cache datum for old raft
+
+2022-08-21 18:02:30,024 WARN start to close old raft protocol!!!
+
+2022-08-21 18:02:30,024 WARN stop old raft protocol task for notifier
+
+2022-08-21 18:02:30,024 WARN stop old raft protocol task for master task
+
+2022-08-21 18:02:30,024 WARN stop old raft protocol task for heartbeat task
+
+2022-08-21 18:02:30,024 WARN clean old cache datum for old raft
+
+2022-08-21 18:02:30,024 WARN start to move old raft protocol metadata
+
+2022-08-21 18:02:30,024 WARN start to move old raft protocol metadata
+
+2022-08-21 18:02:30,024 INFO raft peers changed: [Member{ip='192.168.1.3', port=8848, state=UP, extendInfo={lastRefreshTime=1661076150024, raftPort=7848, version=1.4.1}}]
+
+2022-08-21 18:03:31,039 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 18:03:36,184 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@schoolcontro
+
+2022-08-21 18:03:36,476 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@relationcontro
+
+2022-08-21 18:03:37,441 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@wordcontro
+
+2022-08-21 18:03:37,635 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 18:03:37,660 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@clascontro
+
+2022-08-21 18:03:37,906 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@studentcontro
+
+2022-08-21 18:03:37,946 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gradecontro
+
+2022-08-21 18:03:38,356 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@teachercontro
+
+2022-08-21 18:08:45,955 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@coursecontro
+
+2022-08-21 18:10:55,946 INFO raft peers changed: [Member{ip='192.168.1.3', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2022-08-21 18:10:55,967 INFO initializing Raft sub-system
+
+2022-08-21 18:10:55,968 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2022-08-21 18:10:55,969 INFO cache loaded, datum count: 0, current term: 0
+
+2022-08-21 18:10:55,969 INFO finish to load data from disk, cost: 2 ms.
+
+2022-08-21 18:10:55,972 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2022-08-21 18:10:56,421 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2022-08-21 18:10:56,437 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2022-08-21 18:11:00,947 WARN start to close old raft protocol!!!
+
+2022-08-21 18:11:00,948 WARN stop old raft protocol task for notifier
+
+2022-08-21 18:11:00,948 WARN stop old raft protocol task for master task
+
+2022-08-21 18:11:00,948 WARN stop old raft protocol task for heartbeat task
+
+2022-08-21 18:11:00,948 WARN clean old cache datum for old raft
+
+2022-08-21 18:11:00,948 WARN start to close old raft protocol!!!
+
+2022-08-21 18:11:00,948 WARN stop old raft protocol task for notifier
+
+2022-08-21 18:11:00,948 WARN stop old raft protocol task for master task
+
+2022-08-21 18:11:00,948 WARN stop old raft protocol task for heartbeat task
+
+2022-08-21 18:11:00,948 WARN clean old cache datum for old raft
+
+2022-08-21 18:11:00,948 WARN start to move old raft protocol metadata
+
+2022-08-21 18:11:00,949 WARN start to move old raft protocol metadata
+
+2022-08-21 18:11:00,949 INFO raft peers changed: [Member{ip='192.168.1.3', port=8848, state=UP, extendInfo={lastRefreshTime=1661076660949, raftPort=7848, version=1.4.1}}]
+
+2022-08-21 18:11:52,447 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 18:11:54,511 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@wordcontro
+
+2022-08-21 18:11:55,958 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 18:11:56,000 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@coursecontro
+
+2022-08-21 18:11:56,377 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@schoolcontro
+
+2022-08-21 18:11:57,516 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@clascontro
+
+2022-08-21 18:11:57,523 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gradecontro
+
+2022-08-21 18:11:57,524 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@teachercontro
+
+2022-08-21 18:11:57,684 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@systemcontro
+
+2022-08-21 18:11:57,779 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@studentcontro
+
+2022-08-21 18:21:18,248 INFO raft peers changed: [Member{ip='192.168.1.3', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2022-08-21 18:21:18,280 INFO initializing Raft sub-system
+
+2022-08-21 18:21:18,280 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2022-08-21 18:21:18,280 INFO cache loaded, datum count: 0, current term: 0
+
+2022-08-21 18:21:18,280 INFO finish to load data from disk, cost: 0 ms.
+
+2022-08-21 18:21:18,280 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2022-08-21 18:21:18,661 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2022-08-21 18:21:18,677 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2022-08-21 18:21:23,250 WARN start to close old raft protocol!!!
+
+2022-08-21 18:21:23,250 WARN stop old raft protocol task for notifier
+
+2022-08-21 18:21:23,250 WARN stop old raft protocol task for master task
+
+2022-08-21 18:21:23,250 WARN stop old raft protocol task for heartbeat task
+
+2022-08-21 18:21:23,250 WARN clean old cache datum for old raft
+
+2022-08-21 18:21:23,250 WARN start to close old raft protocol!!!
+
+2022-08-21 18:21:23,250 WARN stop old raft protocol task for notifier
+
+2022-08-21 18:21:23,250 WARN stop old raft protocol task for master task
+
+2022-08-21 18:21:23,250 WARN stop old raft protocol task for heartbeat task
+
+2022-08-21 18:21:23,250 WARN clean old cache datum for old raft
+
+2022-08-21 18:21:23,250 WARN start to move old raft protocol metadata
+
+2022-08-21 18:21:23,250 WARN start to move old raft protocol metadata
+
+2022-08-21 18:21:23,250 INFO raft peers changed: [Member{ip='192.168.1.3', port=8848, state=UP, extendInfo={lastRefreshTime=1661077283250, raftPort=7848, version=1.4.1}}]
+
+2022-08-21 18:22:59,505 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 18:23:04,963 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@wordcontro
+
+2022-08-21 18:23:06,574 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@teachercontro
+
+2022-08-21 18:23:06,645 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gradecontro
+
+2022-08-21 18:23:06,721 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@coursecontro
+
+2022-08-21 18:23:06,812 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@clascontro
+
+2022-08-21 18:23:06,908 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@systemcontro
+
+2022-08-21 18:23:06,959 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@relationcontro
+
+2022-08-21 18:23:07,123 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@studentcontro
+
+2022-08-21 18:23:07,605 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@schoolcontro
+
+2022-08-21 18:23:08,175 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 19:18:04,225 INFO raft peers changed: [Member{ip='192.168.1.3', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2022-08-21 19:18:04,241 INFO initializing Raft sub-system
+
+2022-08-21 19:18:04,241 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2022-08-21 19:18:04,256 INFO cache loaded, datum count: 0, current term: 0
+
+2022-08-21 19:18:04,256 INFO finish to load data from disk, cost: 15 ms.
+
+2022-08-21 19:18:04,256 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2022-08-21 19:18:04,682 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2022-08-21 19:18:04,682 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2022-08-21 19:18:09,220 WARN start to close old raft protocol!!!
+
+2022-08-21 19:18:09,220 WARN stop old raft protocol task for notifier
+
+2022-08-21 19:18:09,220 WARN stop old raft protocol task for master task
+
+2022-08-21 19:18:09,220 WARN stop old raft protocol task for heartbeat task
+
+2022-08-21 19:18:09,220 WARN clean old cache datum for old raft
+
+2022-08-21 19:18:09,220 WARN start to close old raft protocol!!!
+
+2022-08-21 19:18:09,220 WARN stop old raft protocol task for notifier
+
+2022-08-21 19:18:09,220 WARN stop old raft protocol task for master task
+
+2022-08-21 19:18:09,220 WARN stop old raft protocol task for heartbeat task
+
+2022-08-21 19:18:09,220 WARN clean old cache datum for old raft
+
+2022-08-21 19:18:09,220 WARN start to move old raft protocol metadata
+
+2022-08-21 19:18:09,220 WARN start to move old raft protocol metadata
+
+2022-08-21 19:18:09,220 INFO raft peers changed: [Member{ip='192.168.1.3', port=8848, state=UP, extendInfo={lastRefreshTime=1661080689220, raftPort=7848, version=1.4.1}}]
+
+2022-08-21 19:18:39,344 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2022-08-21 19:18:49,600 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@wordcontro
+
+2022-08-21 19:18:52,603 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@clascontro
+
+2022-08-21 19:18:53,498 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gradecontro
+
+2022-08-21 19:18:53,498 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@coursecontro
+
+2022-08-21 19:18:54,158 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@studentcontro
+
+2022-08-21 19:18:55,240 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@schoolcontro
+
+2022-08-21 19:18:55,453 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@usercontro
+
+2022-08-21 19:18:55,586 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@relationcontro
+
+2022-08-21 19:18:56,855 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@teachercontro
+
+2022-08-21 19:18:56,918 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@systemcontro
+

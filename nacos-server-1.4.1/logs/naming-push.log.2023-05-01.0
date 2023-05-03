@@ -1,0 +1,1942 @@
+2023-05-01 00:04:53,295 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:04:53,295 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.43.206:64834, agent: Nacos-Java-Client:v1.4.1, key: 192.168.43.206,64834,379002421885100
+
+2023-05-01 00:04:53,295 INFO send udp packet: 192.168.43.206,64834,379002421885100
+
+2023-05-01 00:05:03,304 INFO retry to push data, key: 192.168.43.206,64834,379002421885100
+
+2023-05-01 00:05:03,304 INFO send udp packet: 192.168.43.206,64834,379002421885100
+
+2023-05-01 00:05:13,317 INFO retry to push data, key: 192.168.43.206,64834,379002421885100
+
+2023-05-01 00:05:13,317 WARN max re-push times reached, retry times 2, key: 192.168.43.206,64834,379002421885100
+
+2023-05-01 00:05:18,982 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:05:18,982 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:52684, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,52684,379028107842700
+
+2023-05-01 00:05:18,982 INFO send udp packet: 192.168.0.104,52684,379028107842700
+
+2023-05-01 00:05:18,987 INFO received ack: {"type": "push-ack", "lastRefTime":"379028107842700", "data":""} from: 192.168.0.104:52684, cost: 5 ms, unacked: 0, total push: 2
+
+2023-05-01 00:10:03,883 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:10:03,883 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50510, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50510,379313009629900
+
+2023-05-01 00:10:03,883 INFO send udp packet: 192.168.0.104,50510,379313009629900
+
+2023-05-01 00:10:03,884 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:52684, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,52684,379313009629900
+
+2023-05-01 00:10:03,884 INFO send udp packet: 192.168.0.104,52684,379313009629900
+
+2023-05-01 00:10:03,886 INFO received ack: {"type": "push-ack", "lastRefTime":"379313009629900", "data":""} from: 192.168.0.104:50510, cost: 3 ms, unacked: 1, total push: 4
+
+2023-05-01 00:10:03,886 INFO received ack: {"type": "push-ack", "lastRefTime":"379313009629900", "data":""} from: 192.168.0.104:52684, cost: 2 ms, unacked: 0, total push: 4
+
+2023-05-01 00:10:20,425 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:10:20,425 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50510, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50510,379329551170500
+
+2023-05-01 00:10:20,425 INFO send udp packet: 192.168.0.104,50510,379329551170500
+
+2023-05-01 00:10:20,425 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:63054, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,63054,379329551170500
+
+2023-05-01 00:10:20,425 INFO send udp packet: 192.168.0.104,63054,379329551170500
+
+2023-05-01 00:10:20,427 INFO received ack: {"type": "push-ack", "lastRefTime":"379329551170500", "data":""} from: 192.168.0.104:50510, cost: 2 ms, unacked: 1, total push: 6
+
+2023-05-01 00:10:20,428 INFO received ack: {"type": "push-ack", "lastRefTime":"379329551170500", "data":""} from: 192.168.0.104:63054, cost: 3 ms, unacked: 0, total push: 6
+
+2023-05-01 00:11:03,835 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:11:03,835 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50510, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50510,379372961063500
+
+2023-05-01 00:11:03,835 INFO send udp packet: 192.168.0.104,50510,379372961063500
+
+2023-05-01 00:11:03,836 INFO received ack: {"type": "push-ack", "lastRefTime":"379372961063500", "data":""} from: 192.168.0.104:50510, cost: 1 ms, unacked: 0, total push: 7
+
+2023-05-01 00:11:10,229 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:11:10,229 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50510, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50510,379379355448100
+
+2023-05-01 00:11:10,229 INFO send udp packet: 192.168.0.104,50510,379379355448100
+
+2023-05-01 00:11:10,230 INFO received ack: {"type": "push-ack", "lastRefTime":"379379355448100", "data":""} from: 192.168.0.104:50510, cost: 1 ms, unacked: 0, total push: 8
+
+2023-05-01 00:11:10,230 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:63054, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,63054,379379355448100
+
+2023-05-01 00:11:10,230 INFO send udp packet: 192.168.0.104,63054,379379355448100
+
+2023-05-01 00:11:15,591 INFO received ack: {"type": "push-ack", "lastRefTime":"379379355448100", "data":""} from: 192.168.0.104:63054, cost: 5361 ms, unacked: 0, total push: 9
+
+2023-05-01 00:17:01,173 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:17:01,173 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50510, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50510,379730299570200
+
+2023-05-01 00:17:01,173 INFO send udp packet: 192.168.0.104,50510,379730299570200
+
+2023-05-01 00:17:01,175 INFO received ack: {"type": "push-ack", "lastRefTime":"379730299570200", "data":""} from: 192.168.0.104:50510, cost: 2 ms, unacked: 0, total push: 10
+
+2023-05-01 00:17:01,177 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:63054, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,63054,379730299570200
+
+2023-05-01 00:17:01,177 INFO send udp packet: 192.168.0.104,63054,379730299570200
+
+2023-05-01 00:17:01,179 INFO received ack: {"type": "push-ack", "lastRefTime":"379730299570200", "data":""} from: 192.168.0.104:63054, cost: 2 ms, unacked: 0, total push: 11
+
+2023-05-01 00:17:25,921 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:17:25,921 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50510, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50510,379755047241700
+
+2023-05-01 00:17:25,921 INFO send udp packet: 192.168.0.104,50510,379755047241700
+
+2023-05-01 00:17:25,921 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50729, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50729,379755047241700
+
+2023-05-01 00:17:25,921 INFO send udp packet: 192.168.0.104,50729,379755047241700
+
+2023-05-01 00:17:25,925 INFO received ack: {"type": "push-ack", "lastRefTime":"379755047241700", "data":""} from: 192.168.0.104:50510, cost: 4 ms, unacked: 1, total push: 13
+
+2023-05-01 00:17:25,925 INFO received ack: {"type": "push-ack", "lastRefTime":"379755047241700", "data":""} from: 192.168.0.104:50729, cost: 4 ms, unacked: 0, total push: 13
+
+2023-05-01 00:18:14,874 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:18:14,874 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50510, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50510,379804000070800
+
+2023-05-01 00:18:14,874 INFO send udp packet: 192.168.0.104,50510,379804000070800
+
+2023-05-01 00:18:14,875 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50729, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50729,379804000070800
+
+2023-05-01 00:18:14,875 INFO send udp packet: 192.168.0.104,50729,379804000070800
+
+2023-05-01 00:18:14,876 INFO received ack: {"type": "push-ack", "lastRefTime":"379804000070800", "data":""} from: 192.168.0.104:50510, cost: 2 ms, unacked: 1, total push: 15
+
+2023-05-01 00:18:14,877 INFO received ack: {"type": "push-ack", "lastRefTime":"379804000070800", "data":""} from: 192.168.0.104:50729, cost: 2 ms, unacked: 0, total push: 15
+
+2023-05-01 00:18:40,797 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:18:40,797 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:62374, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,62374,379829922933400
+
+2023-05-01 00:18:40,797 INFO send udp packet: 192.168.0.104,62374,379829922933400
+
+2023-05-01 00:18:40,801 INFO received ack: {"type": "push-ack", "lastRefTime":"379829922933400", "data":""} from: 192.168.0.104:62374, cost: 4 ms, unacked: 0, total push: 16
+
+2023-05-01 00:21:03,943 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:21:03,944 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50510, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50510,379973069817300
+
+2023-05-01 00:21:03,944 INFO send udp packet: 192.168.0.104,50510,379973069817300
+
+2023-05-01 00:21:03,944 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:62374, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,62374,379973069817300
+
+2023-05-01 00:21:03,944 INFO send udp packet: 192.168.0.104,62374,379973069817300
+
+2023-05-01 00:21:03,946 INFO received ack: {"type": "push-ack", "lastRefTime":"379973069817300", "data":""} from: 192.168.0.104:50510, cost: 2 ms, unacked: 1, total push: 18
+
+2023-05-01 00:21:03,946 INFO received ack: {"type": "push-ack", "lastRefTime":"379973069817300", "data":""} from: 192.168.0.104:62374, cost: 2 ms, unacked: 0, total push: 18
+
+2023-05-01 00:21:28,792 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 00:21:28,792 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50510, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50510,379997917695200
+
+2023-05-01 00:21:28,792 INFO send udp packet: 192.168.0.104,50510,379997917695200
+
+2023-05-01 00:21:28,792 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:65107, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,65107,379997917695200
+
+2023-05-01 00:21:28,792 INFO send udp packet: 192.168.0.104,65107,379997917695200
+
+2023-05-01 00:21:28,794 INFO received ack: {"type": "push-ack", "lastRefTime":"379997917695200", "data":""} from: 192.168.0.104:50510, cost: 2 ms, unacked: 1, total push: 20
+
+2023-05-01 00:21:28,795 INFO received ack: {"type": "push-ack", "lastRefTime":"379997917695200", "data":""} from: 192.168.0.104:65107, cost: 3 ms, unacked: 0, total push: 20
+
+2023-05-01 12:53:25,073 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 12:53:25,096 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:65219, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,65219,44466240650500
+
+2023-05-01 12:53:25,096 INFO send udp packet: 192.168.0.104,65219,44466240650500
+
+2023-05-01 12:53:25,114 INFO received ack: {"type": "push-ack", "lastRefTime":"44466240650500", "data":""} from: 192.168.0.104:65219, cost: 17 ms, unacked: 0, total push: 1
+
+2023-05-01 12:53:28,276 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 12:53:28,277 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:52206, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,52206,44469433208200
+
+2023-05-01 12:53:28,277 INFO send udp packet: 192.168.0.104,52206,44469433208200
+
+2023-05-01 12:53:28,281 INFO received ack: {"type": "push-ack", "lastRefTime":"44469433208200", "data":""} from: 192.168.0.104:52206, cost: 4 ms, unacked: 0, total push: 2
+
+2023-05-01 12:53:32,312 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2023-05-01 12:53:32,312 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44473469075000
+
+2023-05-01 12:53:32,313 INFO send udp packet: 192.168.0.104,57637,44473469075000
+
+2023-05-01 12:53:32,314 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44473469075000
+
+2023-05-01 12:53:32,314 INFO send udp packet: 192.168.0.104,57637,44473469075000
+
+2023-05-01 12:53:32,323 INFO received ack: {"type": "push-ack", "lastRefTime":"44473469075000", "data":""} from: 192.168.0.104:57637, cost: 9 ms, unacked: 0, total push: 3
+
+2023-05-01 12:53:32,328 ERROR [NACOS-PUSH] error while receiving ack data
+
+java.lang.IllegalStateException: unable to find ackEntry for key: 192.168.0.104,57637,44473469075000, ack json: {"type": "push-ack", "lastRefTime":"44473469075000", "data":""}
+	at com.alibaba.nacos.naming.push.PushService$Receiver.run(PushService.java:680)
+	at java.lang.Thread.run(Thread.java:748)
+2023-05-01 12:56:30,359 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 12:56:30,359 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:65219, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,65219,44651516504900
+
+2023-05-01 12:56:30,359 INFO send udp packet: 192.168.0.104,65219,44651516504900
+
+2023-05-01 12:56:30,360 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44651516504900
+
+2023-05-01 12:56:30,361 INFO send udp packet: 192.168.0.104,57637,44651516504900
+
+2023-05-01 12:56:30,363 INFO received ack: {"type": "push-ack", "lastRefTime":"44651516504900", "data":""} from: 192.168.0.104:65219, cost: 4 ms, unacked: 1, total push: 5
+
+2023-05-01 12:56:30,363 INFO received ack: {"type": "push-ack", "lastRefTime":"44651516504900", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 0, total push: 5
+
+2023-05-01 12:56:49,054 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 12:56:49,055 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:65261, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,65261,44670211617200
+
+2023-05-01 12:56:49,055 INFO send udp packet: 192.168.0.104,65261,44670211617200
+
+2023-05-01 12:56:49,055 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44670211617200
+
+2023-05-01 12:56:49,055 INFO send udp packet: 192.168.0.104,57637,44670211617200
+
+2023-05-01 12:56:49,058 INFO received ack: {"type": "push-ack", "lastRefTime":"44670211617200", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 7
+
+2023-05-01 12:56:49,060 INFO received ack: {"type": "push-ack", "lastRefTime":"44670211617200", "data":""} from: 192.168.0.104:65261, cost: 5 ms, unacked: 0, total push: 7
+
+2023-05-01 12:57:53,978 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 12:57:53,978 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:65261, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,65261,44735135110700
+
+2023-05-01 12:57:53,978 INFO send udp packet: 192.168.0.104,65261,44735135110700
+
+2023-05-01 12:57:53,979 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44735135110700
+
+2023-05-01 12:57:53,979 INFO send udp packet: 192.168.0.104,57637,44735135110700
+
+2023-05-01 12:57:53,982 INFO received ack: {"type": "push-ack", "lastRefTime":"44735135110700", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 9
+
+2023-05-01 12:57:53,982 INFO received ack: {"type": "push-ack", "lastRefTime":"44735135110700", "data":""} from: 192.168.0.104:65261, cost: 4 ms, unacked: 0, total push: 9
+
+2023-05-01 12:58:19,547 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 12:58:19,550 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:65267, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,65267,44760704813400
+
+2023-05-01 12:58:19,550 INFO send udp packet: 192.168.0.104,65267,44760704813400
+
+2023-05-01 12:58:19,554 INFO received ack: {"type": "push-ack", "lastRefTime":"44760704813400", "data":""} from: 192.168.0.104:65267, cost: 4 ms, unacked: 0, total push: 10
+
+2023-05-01 12:58:19,555 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44760704813400
+
+2023-05-01 12:58:19,555 INFO send udp packet: 192.168.0.104,57637,44760704813400
+
+2023-05-01 12:58:19,557 INFO received ack: {"type": "push-ack", "lastRefTime":"44760704813400", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 0, total push: 11
+
+2023-05-01 12:59:03,008 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 12:59:03,008 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:65267, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,65267,44804165346900
+
+2023-05-01 12:59:03,008 INFO send udp packet: 192.168.0.104,65267,44804165346900
+
+2023-05-01 12:59:03,010 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44804165346900
+
+2023-05-01 12:59:03,010 INFO send udp packet: 192.168.0.104,57637,44804165346900
+
+2023-05-01 12:59:03,011 INFO received ack: {"type": "push-ack", "lastRefTime":"44804165346900", "data":""} from: 192.168.0.104:65267, cost: 3 ms, unacked: 1, total push: 13
+
+2023-05-01 12:59:03,011 INFO received ack: {"type": "push-ack", "lastRefTime":"44804165346900", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 0, total push: 13
+
+2023-05-01 12:59:28,198 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 12:59:28,199 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:65271, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,65271,44829355913800
+
+2023-05-01 12:59:28,199 INFO send udp packet: 192.168.0.104,65271,44829355913800
+
+2023-05-01 12:59:28,200 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44829355913800
+
+2023-05-01 12:59:28,200 INFO send udp packet: 192.168.0.104,57637,44829355913800
+
+2023-05-01 12:59:28,202 INFO received ack: {"type": "push-ack", "lastRefTime":"44829355913800", "data":""} from: 192.168.0.104:65271, cost: 3 ms, unacked: 1, total push: 15
+
+2023-05-01 12:59:28,204 INFO received ack: {"type": "push-ack", "lastRefTime":"44829355913800", "data":""} from: 192.168.0.104:57637, cost: 4 ms, unacked: 0, total push: 15
+
+2023-05-01 12:59:56,899 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 12:59:56,899 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:65271, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,65271,44858056349400
+
+2023-05-01 12:59:56,899 INFO send udp packet: 192.168.0.104,65271,44858056349400
+
+2023-05-01 12:59:56,900 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44858056349400
+
+2023-05-01 12:59:56,900 INFO send udp packet: 192.168.0.104,57637,44858056349400
+
+2023-05-01 12:59:56,907 INFO received ack: {"type": "push-ack", "lastRefTime":"44858056349400", "data":""} from: 192.168.0.104:57637, cost: 7 ms, unacked: 1, total push: 17
+
+2023-05-01 12:59:56,907 INFO received ack: {"type": "push-ack", "lastRefTime":"44858056349400", "data":""} from: 192.168.0.104:65271, cost: 8 ms, unacked: 0, total push: 17
+
+2023-05-01 13:00:18,297 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:00:18,299 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44879454075500
+
+2023-05-01 13:00:18,299 INFO send udp packet: 192.168.0.104,57637,44879454075500
+
+2023-05-01 13:00:18,299 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53472, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53472,44879454075500
+
+2023-05-01 13:00:18,300 INFO send udp packet: 192.168.0.104,53472,44879454075500
+
+2023-05-01 13:00:18,302 INFO received ack: {"type": "push-ack", "lastRefTime":"44879454075500", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 19
+
+2023-05-01 13:00:18,303 INFO received ack: {"type": "push-ack", "lastRefTime":"44879454075500", "data":""} from: 192.168.0.104:53472, cost: 3 ms, unacked: 0, total push: 19
+
+2023-05-01 13:01:43,174 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:01:43,174 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44964331449200
+
+2023-05-01 13:01:43,174 INFO send udp packet: 192.168.0.104,57637,44964331449200
+
+2023-05-01 13:01:43,174 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53472, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53472,44964331449200
+
+2023-05-01 13:01:43,174 INFO send udp packet: 192.168.0.104,53472,44964331449200
+
+2023-05-01 13:01:43,176 INFO received ack: {"type": "push-ack", "lastRefTime":"44964331449200", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 21
+
+2023-05-01 13:01:43,177 INFO received ack: {"type": "push-ack", "lastRefTime":"44964331449200", "data":""} from: 192.168.0.104:53472, cost: 3 ms, unacked: 0, total push: 21
+
+2023-05-01 13:02:05,303 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:02:05,303 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64427, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64427,44986459859900
+
+2023-05-01 13:02:05,303 INFO send udp packet: 192.168.0.104,64427,44986459859900
+
+2023-05-01 13:02:05,303 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,44986459859900
+
+2023-05-01 13:02:05,303 INFO send udp packet: 192.168.0.104,57637,44986459859900
+
+2023-05-01 13:02:05,307 INFO received ack: {"type": "push-ack", "lastRefTime":"44986459859900", "data":""} from: 192.168.0.104:57637, cost: 4 ms, unacked: 1, total push: 23
+
+2023-05-01 13:02:05,307 INFO received ack: {"type": "push-ack", "lastRefTime":"44986459859900", "data":""} from: 192.168.0.104:64427, cost: 4 ms, unacked: 0, total push: 23
+
+2023-05-01 13:05:18,384 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:05:18,384 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64427, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64427,45179541085100
+
+2023-05-01 13:05:18,384 INFO send udp packet: 192.168.0.104,64427,45179541085100
+
+2023-05-01 13:05:18,384 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,45179541085100
+
+2023-05-01 13:05:18,384 INFO send udp packet: 192.168.0.104,57637,45179541085100
+
+2023-05-01 13:05:18,387 INFO received ack: {"type": "push-ack", "lastRefTime":"45179541085100", "data":""} from: 192.168.0.104:64427, cost: 3 ms, unacked: 1, total push: 25
+
+2023-05-01 13:05:18,388 INFO received ack: {"type": "push-ack", "lastRefTime":"45179541085100", "data":""} from: 192.168.0.104:57637, cost: 4 ms, unacked: 0, total push: 25
+
+2023-05-01 13:05:43,773 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:05:43,774 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57433, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57433,45204930970700
+
+2023-05-01 13:05:43,774 INFO send udp packet: 192.168.0.104,57433,45204930970700
+
+2023-05-01 13:05:43,774 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,45204930970700
+
+2023-05-01 13:05:43,774 INFO send udp packet: 192.168.0.104,57637,45204930970700
+
+2023-05-01 13:05:43,776 INFO received ack: {"type": "push-ack", "lastRefTime":"45204930970700", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 27
+
+2023-05-01 13:05:43,777 INFO received ack: {"type": "push-ack", "lastRefTime":"45204930970700", "data":""} from: 192.168.0.104:57433, cost: 3 ms, unacked: 0, total push: 27
+
+2023-05-01 13:07:54,719 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:07:54,719 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57433, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57433,45335875774400
+
+2023-05-01 13:07:54,719 INFO send udp packet: 192.168.0.104,57433,45335875774400
+
+2023-05-01 13:07:54,719 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,45335875774400
+
+2023-05-01 13:07:54,719 INFO send udp packet: 192.168.0.104,57637,45335875774400
+
+2023-05-01 13:07:54,722 INFO received ack: {"type": "push-ack", "lastRefTime":"45335875774400", "data":""} from: 192.168.0.104:57433, cost: 3 ms, unacked: 1, total push: 29
+
+2023-05-01 13:07:54,722 INFO received ack: {"type": "push-ack", "lastRefTime":"45335875774400", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 29
+
+2023-05-01 13:08:21,552 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:08:21,552 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:56205, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,56205,45362709088800
+
+2023-05-01 13:08:21,552 INFO send udp packet: 192.168.0.104,56205,45362709088800
+
+2023-05-01 13:08:21,555 INFO received ack: {"type": "push-ack", "lastRefTime":"45362709088800", "data":""} from: 192.168.0.104:56205, cost: 3 ms, unacked: 0, total push: 30
+
+2023-05-01 13:10:22,703 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:10:22,703 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:56205, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,56205,45483859769400
+
+2023-05-01 13:10:22,703 INFO send udp packet: 192.168.0.104,56205,45483859769400
+
+2023-05-01 13:10:22,703 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,45483859769400
+
+2023-05-01 13:10:22,703 INFO send udp packet: 192.168.0.104,57637,45483859769400
+
+2023-05-01 13:10:22,705 INFO received ack: {"type": "push-ack", "lastRefTime":"45483859769400", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 32
+
+2023-05-01 13:10:22,706 INFO received ack: {"type": "push-ack", "lastRefTime":"45483859769400", "data":""} from: 192.168.0.104:56205, cost: 3 ms, unacked: 0, total push: 32
+
+2023-05-01 13:10:49,213 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:10:49,213 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:61448, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,61448,45510370292800
+
+2023-05-01 13:10:49,213 INFO send udp packet: 192.168.0.104,61448,45510370292800
+
+2023-05-01 13:10:49,213 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,45510370292800
+
+2023-05-01 13:10:49,213 INFO send udp packet: 192.168.0.104,57637,45510370292800
+
+2023-05-01 13:10:49,215 INFO received ack: {"type": "push-ack", "lastRefTime":"45510370292800", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 34
+
+2023-05-01 13:10:49,215 INFO received ack: {"type": "push-ack", "lastRefTime":"45510370292800", "data":""} from: 192.168.0.104:61448, cost: 2 ms, unacked: 0, total push: 34
+
+2023-05-01 13:13:08,561 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:13:08,561 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:61448, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,61448,45649717622200
+
+2023-05-01 13:13:08,561 INFO send udp packet: 192.168.0.104,61448,45649717622200
+
+2023-05-01 13:13:08,561 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,45649717622200
+
+2023-05-01 13:13:08,561 INFO send udp packet: 192.168.0.104,57637,45649717622200
+
+2023-05-01 13:13:08,562 INFO received ack: {"type": "push-ack", "lastRefTime":"45649717622200", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 1, total push: 36
+
+2023-05-01 13:13:08,563 INFO received ack: {"type": "push-ack", "lastRefTime":"45649717622200", "data":""} from: 192.168.0.104:61448, cost: 2 ms, unacked: 0, total push: 36
+
+2023-05-01 13:13:30,904 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:13:30,904 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:63014, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,63014,45672062073000
+
+2023-05-01 13:13:30,904 INFO send udp packet: 192.168.0.104,63014,45672062073000
+
+2023-05-01 13:13:30,905 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,45672062073000
+
+2023-05-01 13:13:30,905 INFO send udp packet: 192.168.0.104,57637,45672062073000
+
+2023-05-01 13:13:30,906 INFO received ack: {"type": "push-ack", "lastRefTime":"45672062073000", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 1, total push: 38
+
+2023-05-01 13:13:30,909 INFO received ack: {"type": "push-ack", "lastRefTime":"45672062073000", "data":""} from: 192.168.0.104:63014, cost: 5 ms, unacked: 0, total push: 38
+
+2023-05-01 13:15:31,716 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:15:31,716 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:63014, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,63014,45792873057600
+
+2023-05-01 13:15:31,716 INFO send udp packet: 192.168.0.104,63014,45792873057600
+
+2023-05-01 13:15:31,717 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,45792873057600
+
+2023-05-01 13:15:31,717 INFO send udp packet: 192.168.0.104,57637,45792873057600
+
+2023-05-01 13:15:31,718 INFO received ack: {"type": "push-ack", "lastRefTime":"45792873057600", "data":""} from: 192.168.0.104:63014, cost: 2 ms, unacked: 1, total push: 40
+
+2023-05-01 13:15:31,718 INFO received ack: {"type": "push-ack", "lastRefTime":"45792873057600", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 0, total push: 40
+
+2023-05-01 13:19:07,737 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:19:07,737 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:65236, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,65236,46008894304600
+
+2023-05-01 13:19:07,737 INFO send udp packet: 192.168.0.104,65236,46008894304600
+
+2023-05-01 13:19:07,743 INFO received ack: {"type": "push-ack", "lastRefTime":"46008894304600", "data":""} from: 192.168.0.104:65236, cost: 6 ms, unacked: 0, total push: 41
+
+2023-05-01 13:20:02,361 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:20:02,362 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:65236, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,65236,46063518604100
+
+2023-05-01 13:20:02,362 INFO send udp packet: 192.168.0.104,65236,46063518604100
+
+2023-05-01 13:20:02,362 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,46063518604100
+
+2023-05-01 13:20:02,362 INFO send udp packet: 192.168.0.104,57637,46063518604100
+
+2023-05-01 13:20:02,365 INFO received ack: {"type": "push-ack", "lastRefTime":"46063518604100", "data":""} from: 192.168.0.104:65236, cost: 3 ms, unacked: 1, total push: 43
+
+2023-05-01 13:20:02,365 INFO received ack: {"type": "push-ack", "lastRefTime":"46063518604100", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 43
+
+2023-05-01 13:20:26,418 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:20:26,418 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:61078, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,61078,46087575050000
+
+2023-05-01 13:20:26,418 INFO send udp packet: 192.168.0.104,61078,46087575050000
+
+2023-05-01 13:20:26,418 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,46087575050000
+
+2023-05-01 13:20:26,418 INFO send udp packet: 192.168.0.104,57637,46087575050000
+
+2023-05-01 13:20:26,421 INFO received ack: {"type": "push-ack", "lastRefTime":"46087575050000", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 45
+
+2023-05-01 13:20:26,423 INFO received ack: {"type": "push-ack", "lastRefTime":"46087575050000", "data":""} from: 192.168.0.104:61078, cost: 5 ms, unacked: 0, total push: 45
+
+2023-05-01 13:57:25,367 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:57:25,368 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,48306524356300
+
+2023-05-01 13:57:25,368 INFO send udp packet: 192.168.0.104,57637,48306524356300
+
+2023-05-01 13:57:25,368 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 13:57:25,368 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,48306524881800
+
+2023-05-01 13:57:25,368 INFO send udp packet: 192.168.0.104,57637,48306524881800
+
+2023-05-01 13:57:25,368 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2023-05-01 13:57:25,368 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,48306525074100
+
+2023-05-01 13:57:25,368 INFO send udp packet: 192.168.0.104,57637,48306525074100
+
+2023-05-01 13:57:25,368 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,48306525074100
+
+2023-05-01 13:57:25,368 INFO send udp packet: 192.168.0.104,57637,48306525074100
+
+2023-05-01 13:57:25,369 INFO received ack: {"type": "push-ack", "lastRefTime":"48306524356300", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 2, total push: 48
+
+2023-05-01 13:57:25,369 INFO received ack: {"type": "push-ack", "lastRefTime":"48306524881800", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 1, total push: 48
+
+2023-05-01 13:57:25,369 INFO received ack: {"type": "push-ack", "lastRefTime":"48306525074100", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 0, total push: 48
+
+2023-05-01 13:57:25,370 ERROR [NACOS-PUSH] error while receiving ack data
+
+java.lang.IllegalStateException: unable to find ackEntry for key: 192.168.0.104,57637,48306525074100, ack json: {"type": "push-ack", "lastRefTime":"48306525074100", "data":""}
+	at com.alibaba.nacos.naming.push.PushService$Receiver.run(PushService.java:680)
+	at java.lang.Thread.run(Thread.java:748)
+2023-05-01 13:57:28,923 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2023-05-01 13:57:28,923 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,48310080693400
+
+2023-05-01 13:57:28,923 INFO send udp packet: 192.168.0.104,57637,48310080693400
+
+2023-05-01 13:57:28,923 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,48310080693400
+
+2023-05-01 13:57:28,923 INFO send udp packet: 192.168.0.104,57637,48310080693400
+
+2023-05-01 13:57:28,926 INFO received ack: {"type": "push-ack", "lastRefTime":"48310080693400", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 49
+
+2023-05-01 13:57:28,928 ERROR [NACOS-PUSH] error while receiving ack data
+
+java.lang.IllegalStateException: unable to find ackEntry for key: 192.168.0.104,57637,48310080693400, ack json: {"type": "push-ack", "lastRefTime":"48310080693400", "data":""}
+	at com.alibaba.nacos.naming.push.PushService$Receiver.run(PushService.java:680)
+	at java.lang.Thread.run(Thread.java:748)
+2023-05-01 13:57:29,454 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 13:57:29,455 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:61078, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,61078,48310612164300
+
+2023-05-01 13:57:29,455 INFO send udp packet: 192.168.0.104,61078,48310612164300
+
+2023-05-01 13:57:29,455 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,48310612164300
+
+2023-05-01 13:57:29,455 INFO send udp packet: 192.168.0.104,57637,48310612164300
+
+2023-05-01 13:57:29,456 INFO received ack: {"type": "push-ack", "lastRefTime":"48310612164300", "data":""} from: 192.168.0.104:61078, cost: 1 ms, unacked: 1, total push: 51
+
+2023-05-01 13:57:29,457 INFO received ack: {"type": "push-ack", "lastRefTime":"48310612164300", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 0, total push: 51
+
+2023-05-01 13:57:29,562 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 13:57:29,562 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,48310719564700
+
+2023-05-01 13:57:29,562 INFO send udp packet: 192.168.0.104,57637,48310719564700
+
+2023-05-01 13:57:29,565 INFO received ack: {"type": "push-ack", "lastRefTime":"48310719564700", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 52
+
+2023-05-01 14:02:41,768 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:02:41,768 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:61078, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,61078,48622925627000
+
+2023-05-01 14:02:41,768 INFO send udp packet: 192.168.0.104,61078,48622925627000
+
+2023-05-01 14:02:41,770 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,48622925627000
+
+2023-05-01 14:02:41,770 INFO send udp packet: 192.168.0.104,57637,48622925627000
+
+2023-05-01 14:02:41,770 INFO received ack: {"type": "push-ack", "lastRefTime":"48622925627000", "data":""} from: 192.168.0.104:61078, cost: 2 ms, unacked: 1, total push: 54
+
+2023-05-01 14:02:41,771 INFO received ack: {"type": "push-ack", "lastRefTime":"48622925627000", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 0, total push: 54
+
+2023-05-01 14:03:09,335 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:03:09,335 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64347, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64347,48650492430800
+
+2023-05-01 14:03:09,335 INFO send udp packet: 192.168.0.104,64347,48650492430800
+
+2023-05-01 14:03:09,339 INFO received ack: {"type": "push-ack", "lastRefTime":"48650492430800", "data":""} from: 192.168.0.104:64347, cost: 4 ms, unacked: 0, total push: 55
+
+2023-05-01 14:04:56,229 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:04:56,229 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64347, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64347,48757386554800
+
+2023-05-01 14:04:56,229 INFO send udp packet: 192.168.0.104,64347,48757386554800
+
+2023-05-01 14:04:56,229 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,48757386554800
+
+2023-05-01 14:04:56,229 INFO send udp packet: 192.168.0.104,57637,48757386554800
+
+2023-05-01 14:04:56,232 INFO received ack: {"type": "push-ack", "lastRefTime":"48757386554800", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 57
+
+2023-05-01 14:04:56,232 INFO received ack: {"type": "push-ack", "lastRefTime":"48757386554800", "data":""} from: 192.168.0.104:64347, cost: 3 ms, unacked: 0, total push: 57
+
+2023-05-01 14:05:20,366 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:05:20,366 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64350, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64350,48781523744200
+
+2023-05-01 14:05:20,366 INFO send udp packet: 192.168.0.104,64350,48781523744200
+
+2023-05-01 14:05:20,367 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,48781523744200
+
+2023-05-01 14:05:20,367 INFO send udp packet: 192.168.0.104,57637,48781523744200
+
+2023-05-01 14:05:20,369 INFO received ack: {"type": "push-ack", "lastRefTime":"48781523744200", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 59
+
+2023-05-01 14:05:20,370 INFO received ack: {"type": "push-ack", "lastRefTime":"48781523744200", "data":""} from: 192.168.0.104:64350, cost: 4 ms, unacked: 0, total push: 59
+
+2023-05-01 14:14:38,576 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:14:38,576 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64350, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64350,49339732826700
+
+2023-05-01 14:14:38,576 INFO send udp packet: 192.168.0.104,64350,49339732826700
+
+2023-05-01 14:14:38,576 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,49339732826700
+
+2023-05-01 14:14:38,576 INFO send udp packet: 192.168.0.104,57637,49339732826700
+
+2023-05-01 14:14:38,579 INFO received ack: {"type": "push-ack", "lastRefTime":"49339732826700", "data":""} from: 192.168.0.104:64350, cost: 3 ms, unacked: 1, total push: 61
+
+2023-05-01 14:14:38,579 INFO received ack: {"type": "push-ack", "lastRefTime":"49339732826700", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 61
+
+2023-05-01 14:15:11,170 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:15:11,170 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58635, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58635,49372327196600
+
+2023-05-01 14:15:11,170 INFO send udp packet: 192.168.0.104,58635,49372327196600
+
+2023-05-01 14:15:11,173 INFO received ack: {"type": "push-ack", "lastRefTime":"49372327196600", "data":""} from: 192.168.0.104:58635, cost: 3 ms, unacked: 0, total push: 62
+
+2023-05-01 14:17:26,679 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:17:26,679 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58635, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58635,49507836739500
+
+2023-05-01 14:17:26,679 INFO send udp packet: 192.168.0.104,58635,49507836739500
+
+2023-05-01 14:17:26,680 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,49507836739500
+
+2023-05-01 14:17:26,680 INFO send udp packet: 192.168.0.104,57637,49507836739500
+
+2023-05-01 14:17:26,682 INFO received ack: {"type": "push-ack", "lastRefTime":"49507836739500", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 64
+
+2023-05-01 14:17:26,683 INFO received ack: {"type": "push-ack", "lastRefTime":"49507836739500", "data":""} from: 192.168.0.104:58635, cost: 4 ms, unacked: 0, total push: 64
+
+2023-05-01 14:17:56,528 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:17:56,528 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,49537684963000
+
+2023-05-01 14:17:56,528 INFO send udp packet: 192.168.0.104,57637,49537684963000
+
+2023-05-01 14:17:56,528 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53165, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53165,49537684963000
+
+2023-05-01 14:17:56,528 INFO send udp packet: 192.168.0.104,53165,49537684963000
+
+2023-05-01 14:17:56,531 INFO received ack: {"type": "push-ack", "lastRefTime":"49537684963000", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 66
+
+2023-05-01 14:17:56,534 INFO received ack: {"type": "push-ack", "lastRefTime":"49537684963000", "data":""} from: 192.168.0.104:53165, cost: 6 ms, unacked: 0, total push: 66
+
+2023-05-01 14:21:02,533 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:21:02,533 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,49723689901400
+
+2023-05-01 14:21:02,533 INFO send udp packet: 192.168.0.104,57637,49723689901400
+
+2023-05-01 14:21:02,535 INFO received ack: {"type": "push-ack", "lastRefTime":"49723689901400", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 0, total push: 67
+
+2023-05-01 14:21:02,535 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53165, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53165,49723689901400
+
+2023-05-01 14:21:02,535 INFO send udp packet: 192.168.0.104,53165,49723689901400
+
+2023-05-01 14:21:02,538 INFO received ack: {"type": "push-ack", "lastRefTime":"49723689901400", "data":""} from: 192.168.0.104:53165, cost: 3 ms, unacked: 0, total push: 68
+
+2023-05-01 14:21:31,508 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:21:31,508 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53048, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53048,49752665550400
+
+2023-05-01 14:21:31,508 INFO send udp packet: 192.168.0.104,53048,49752665550400
+
+2023-05-01 14:21:31,510 INFO received ack: {"type": "push-ack", "lastRefTime":"49752665550400", "data":""} from: 192.168.0.104:53048, cost: 2 ms, unacked: 0, total push: 69
+
+2023-05-01 14:26:01,354 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:26:01,354 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53048, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53048,50022511394400
+
+2023-05-01 14:26:01,354 INFO send udp packet: 192.168.0.104,53048,50022511394400
+
+2023-05-01 14:26:01,356 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,50022511394400
+
+2023-05-01 14:26:01,356 INFO send udp packet: 192.168.0.104,57637,50022511394400
+
+2023-05-01 14:26:01,357 INFO received ack: {"type": "push-ack", "lastRefTime":"50022511394400", "data":""} from: 192.168.0.104:53048, cost: 3 ms, unacked: 1, total push: 71
+
+2023-05-01 14:26:01,359 INFO received ack: {"type": "push-ack", "lastRefTime":"50022511394400", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 71
+
+2023-05-01 14:26:27,394 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:26:27,395 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58046, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58046,50048551843600
+
+2023-05-01 14:26:27,395 INFO send udp packet: 192.168.0.104,58046,50048551843600
+
+2023-05-01 14:26:27,397 INFO received ack: {"type": "push-ack", "lastRefTime":"50048551843600", "data":""} from: 192.168.0.104:58046, cost: 2 ms, unacked: 0, total push: 72
+
+2023-05-01 14:41:04,420 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:41:04,420 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58046, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58046,50925578053400
+
+2023-05-01 14:41:04,420 INFO send udp packet: 192.168.0.104,58046,50925578053400
+
+2023-05-01 14:41:04,421 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,50925578053400
+
+2023-05-01 14:41:04,422 INFO send udp packet: 192.168.0.104,57637,50925578053400
+
+2023-05-01 14:41:04,423 INFO received ack: {"type": "push-ack", "lastRefTime":"50925578053400", "data":""} from: 192.168.0.104:58046, cost: 3 ms, unacked: 1, total push: 74
+
+2023-05-01 14:41:04,423 INFO received ack: {"type": "push-ack", "lastRefTime":"50925578053400", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 0, total push: 74
+
+2023-05-01 14:41:34,608 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:41:34,608 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58671, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58671,50955764879000
+
+2023-05-01 14:41:34,608 INFO send udp packet: 192.168.0.104,58671,50955764879000
+
+2023-05-01 14:41:34,608 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,50955764879000
+
+2023-05-01 14:41:34,608 INFO send udp packet: 192.168.0.104,57637,50955764879000
+
+2023-05-01 14:41:34,609 INFO received ack: {"type": "push-ack", "lastRefTime":"50955764879000", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 1, total push: 76
+
+2023-05-01 14:41:34,610 INFO received ack: {"type": "push-ack", "lastRefTime":"50955764879000", "data":""} from: 192.168.0.104:58671, cost: 2 ms, unacked: 0, total push: 76
+
+2023-05-01 14:53:07,457 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:53:07,457 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58671, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58671,51648613845800
+
+2023-05-01 14:53:07,457 INFO send udp packet: 192.168.0.104,58671,51648613845800
+
+2023-05-01 14:53:07,459 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,51648613845800
+
+2023-05-01 14:53:07,459 INFO send udp packet: 192.168.0.104,57637,51648613845800
+
+2023-05-01 14:53:07,459 INFO received ack: {"type": "push-ack", "lastRefTime":"51648613845800", "data":""} from: 192.168.0.104:58671, cost: 2 ms, unacked: 1, total push: 78
+
+2023-05-01 14:53:07,460 INFO received ack: {"type": "push-ack", "lastRefTime":"51648613845800", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 0, total push: 78
+
+2023-05-01 14:53:37,439 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:53:37,439 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64997, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64997,51678596689600
+
+2023-05-01 14:53:37,439 INFO send udp packet: 192.168.0.104,64997,51678596689600
+
+2023-05-01 14:53:37,439 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,51678596689600
+
+2023-05-01 14:53:37,439 INFO send udp packet: 192.168.0.104,57637,51678596689600
+
+2023-05-01 14:53:37,441 INFO received ack: {"type": "push-ack", "lastRefTime":"51678596689600", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 80
+
+2023-05-01 14:53:37,442 INFO received ack: {"type": "push-ack", "lastRefTime":"51678596689600", "data":""} from: 192.168.0.104:64997, cost: 3 ms, unacked: 0, total push: 80
+
+2023-05-01 14:56:05,372 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:56:05,372 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64997, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64997,51826529063300
+
+2023-05-01 14:56:05,372 INFO send udp packet: 192.168.0.104,64997,51826529063300
+
+2023-05-01 14:56:05,372 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,51826529063300
+
+2023-05-01 14:56:05,372 INFO send udp packet: 192.168.0.104,57637,51826529063300
+
+2023-05-01 14:56:05,373 INFO received ack: {"type": "push-ack", "lastRefTime":"51826529063300", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 1, total push: 82
+
+2023-05-01 14:56:05,374 INFO received ack: {"type": "push-ack", "lastRefTime":"51826529063300", "data":""} from: 192.168.0.104:64997, cost: 2 ms, unacked: 0, total push: 82
+
+2023-05-01 14:56:33,104 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:56:33,104 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50277, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50277,51854261408100
+
+2023-05-01 14:56:33,104 INFO send udp packet: 192.168.0.104,50277,51854261408100
+
+2023-05-01 14:56:33,107 INFO received ack: {"type": "push-ack", "lastRefTime":"51854261408100", "data":""} from: 192.168.0.104:50277, cost: 3 ms, unacked: 0, total push: 83
+
+2023-05-01 14:58:34,776 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:58:34,776 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,51975932895000
+
+2023-05-01 14:58:34,776 INFO send udp packet: 192.168.0.104,57637,51975932895000
+
+2023-05-01 14:58:34,777 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50277, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50277,51975932895000
+
+2023-05-01 14:58:34,777 INFO send udp packet: 192.168.0.104,50277,51975932895000
+
+2023-05-01 14:58:34,778 INFO received ack: {"type": "push-ack", "lastRefTime":"51975932895000", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 85
+
+2023-05-01 14:58:34,779 INFO received ack: {"type": "push-ack", "lastRefTime":"51975932895000", "data":""} from: 192.168.0.104:50277, cost: 2 ms, unacked: 0, total push: 85
+
+2023-05-01 14:59:04,984 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 14:59:04,984 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,52006141475100
+
+2023-05-01 14:59:04,984 INFO send udp packet: 192.168.0.104,57637,52006141475100
+
+2023-05-01 14:59:04,984 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:54285, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,54285,52006141475100
+
+2023-05-01 14:59:04,985 INFO send udp packet: 192.168.0.104,54285,52006141475100
+
+2023-05-01 14:59:04,986 INFO received ack: {"type": "push-ack", "lastRefTime":"52006141475100", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 87
+
+2023-05-01 14:59:04,987 INFO received ack: {"type": "push-ack", "lastRefTime":"52006141475100", "data":""} from: 192.168.0.104:54285, cost: 2 ms, unacked: 0, total push: 87
+
+2023-05-01 15:01:48,777 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:01:48,777 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,52169933996900
+
+2023-05-01 15:01:48,777 INFO send udp packet: 192.168.0.104,57637,52169933996900
+
+2023-05-01 15:01:48,777 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:54285, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,54285,52169933996900
+
+2023-05-01 15:01:48,777 INFO send udp packet: 192.168.0.104,54285,52169933996900
+
+2023-05-01 15:01:48,780 INFO received ack: {"type": "push-ack", "lastRefTime":"52169933996900", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 89
+
+2023-05-01 15:01:48,780 INFO received ack: {"type": "push-ack", "lastRefTime":"52169933996900", "data":""} from: 192.168.0.104:54285, cost: 3 ms, unacked: 0, total push: 89
+
+2023-05-01 15:02:16,991 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:02:16,991 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64997, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64997,52198148073200
+
+2023-05-01 15:02:16,991 INFO send udp packet: 192.168.0.104,64997,52198148073200
+
+2023-05-01 15:02:16,991 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,52198148073200
+
+2023-05-01 15:02:16,991 INFO send udp packet: 192.168.0.104,57637,52198148073200
+
+2023-05-01 15:02:16,994 INFO received ack: {"type": "push-ack", "lastRefTime":"52198148073200", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 91
+
+2023-05-01 15:02:16,995 INFO received ack: {"type": "push-ack", "lastRefTime":"52198148073200", "data":""} from: 192.168.0.104:64997, cost: 4 ms, unacked: 0, total push: 91
+
+2023-05-01 15:09:09,318 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:09:09,318 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64997, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64997,52610475572500
+
+2023-05-01 15:09:09,318 INFO send udp packet: 192.168.0.104,64997,52610475572500
+
+2023-05-01 15:09:09,318 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,52610475572500
+
+2023-05-01 15:09:09,318 INFO send udp packet: 192.168.0.104,57637,52610475572500
+
+2023-05-01 15:09:09,320 INFO received ack: {"type": "push-ack", "lastRefTime":"52610475572500", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 93
+
+2023-05-01 15:09:19,321 INFO retry to push data, key: 192.168.0.104,64997,52610475572500
+
+2023-05-01 15:09:19,321 INFO send udp packet: 192.168.0.104,64997,52610475572500
+
+2023-05-01 15:09:29,335 INFO retry to push data, key: 192.168.0.104,64997,52610475572500
+
+2023-05-01 15:09:29,335 WARN max re-push times reached, retry times 2, key: 192.168.0.104,64997,52610475572500
+
+2023-05-01 15:09:34,998 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:09:34,998 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:60527, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,60527,52636155823700
+
+2023-05-01 15:09:34,998 INFO send udp packet: 192.168.0.104,60527,52636155823700
+
+2023-05-01 15:09:34,998 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,52636155823700
+
+2023-05-01 15:09:34,998 INFO send udp packet: 192.168.0.104,57637,52636155823700
+
+2023-05-01 15:09:35,002 INFO received ack: {"type": "push-ack", "lastRefTime":"52636155823700", "data":""} from: 192.168.0.104:57637, cost: 4 ms, unacked: 1, total push: 95
+
+2023-05-01 15:09:35,018 INFO received ack: {"type": "push-ack", "lastRefTime":"52636155823700", "data":""} from: 192.168.0.104:60527, cost: 20 ms, unacked: 0, total push: 95
+
+2023-05-01 15:11:52,873 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:11:52,875 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:60527, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,60527,52774030039300
+
+2023-05-01 15:11:52,875 INFO send udp packet: 192.168.0.104,60527,52774030039300
+
+2023-05-01 15:11:52,875 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,52774030039300
+
+2023-05-01 15:11:52,875 INFO send udp packet: 192.168.0.104,57637,52774030039300
+
+2023-05-01 15:11:52,877 INFO received ack: {"type": "push-ack", "lastRefTime":"52774030039300", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 97
+
+2023-05-01 15:11:52,878 INFO received ack: {"type": "push-ack", "lastRefTime":"52774030039300", "data":""} from: 192.168.0.104:60527, cost: 3 ms, unacked: 0, total push: 97
+
+2023-05-01 15:12:20,112 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:12:20,112 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64204, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64204,52801269233300
+
+2023-05-01 15:12:20,112 INFO send udp packet: 192.168.0.104,64204,52801269233300
+
+2023-05-01 15:12:20,114 INFO received ack: {"type": "push-ack", "lastRefTime":"52801269233300", "data":""} from: 192.168.0.104:64204, cost: 2 ms, unacked: 0, total push: 98
+
+2023-05-01 15:14:17,672 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:14:17,672 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64204, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64204,52918829411300
+
+2023-05-01 15:14:17,672 INFO send udp packet: 192.168.0.104,64204,52918829411300
+
+2023-05-01 15:14:17,672 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,52918829411300
+
+2023-05-01 15:14:17,672 INFO send udp packet: 192.168.0.104,57637,52918829411300
+
+2023-05-01 15:14:17,675 INFO received ack: {"type": "push-ack", "lastRefTime":"52918829411300", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 100
+
+2023-05-01 15:14:17,675 INFO received ack: {"type": "push-ack", "lastRefTime":"52918829411300", "data":""} from: 192.168.0.104:64204, cost: 3 ms, unacked: 0, total push: 100
+
+2023-05-01 15:14:48,824 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:14:48,824 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:55754, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,55754,52949981550200
+
+2023-05-01 15:14:48,824 INFO send udp packet: 192.168.0.104,55754,52949981550200
+
+2023-05-01 15:14:48,824 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,52949981550200
+
+2023-05-01 15:14:48,824 INFO send udp packet: 192.168.0.104,57637,52949981550200
+
+2023-05-01 15:14:48,826 INFO received ack: {"type": "push-ack", "lastRefTime":"52949981550200", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 102
+
+2023-05-01 15:14:48,827 INFO received ack: {"type": "push-ack", "lastRefTime":"52949981550200", "data":""} from: 192.168.0.104:55754, cost: 3 ms, unacked: 0, total push: 102
+
+2023-05-01 15:18:28,756 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:18:28,756 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:55754, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,55754,53169912859600
+
+2023-05-01 15:18:28,756 INFO send udp packet: 192.168.0.104,55754,53169912859600
+
+2023-05-01 15:18:28,758 INFO received ack: {"type": "push-ack", "lastRefTime":"53169912859600", "data":""} from: 192.168.0.104:55754, cost: 2 ms, unacked: 0, total push: 103
+
+2023-05-01 15:18:28,758 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,53169912859600
+
+2023-05-01 15:18:28,758 INFO send udp packet: 192.168.0.104,57637,53169912859600
+
+2023-05-01 15:18:28,760 INFO received ack: {"type": "push-ack", "lastRefTime":"53169912859600", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 0, total push: 104
+
+2023-05-01 15:18:54,230 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:18:54,230 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50213, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50213,53195387077100
+
+2023-05-01 15:18:54,230 INFO send udp packet: 192.168.0.104,50213,53195387077100
+
+2023-05-01 15:18:54,231 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,53195387077100
+
+2023-05-01 15:18:54,231 INFO send udp packet: 192.168.0.104,57637,53195387077100
+
+2023-05-01 15:18:54,232 INFO received ack: {"type": "push-ack", "lastRefTime":"53195387077100", "data":""} from: 192.168.0.104:50213, cost: 2 ms, unacked: 1, total push: 106
+
+2023-05-01 15:18:54,232 INFO received ack: {"type": "push-ack", "lastRefTime":"53195387077100", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 0, total push: 106
+
+2023-05-01 15:26:34,725 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:26:34,726 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50213, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50213,53655882580700
+
+2023-05-01 15:26:34,726 INFO send udp packet: 192.168.0.104,50213,53655882580700
+
+2023-05-01 15:26:34,727 INFO received ack: {"type": "push-ack", "lastRefTime":"53655882580700", "data":""} from: 192.168.0.104:50213, cost: 1 ms, unacked: 0, total push: 107
+
+2023-05-01 15:26:34,728 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,53655882580700
+
+2023-05-01 15:26:34,728 INFO send udp packet: 192.168.0.104,57637,53655882580700
+
+2023-05-01 15:26:34,730 INFO received ack: {"type": "push-ack", "lastRefTime":"53655882580700", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 0, total push: 108
+
+2023-05-01 15:26:59,758 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:26:59,758 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,53680914724300
+
+2023-05-01 15:26:59,758 INFO send udp packet: 192.168.0.104,57637,53680914724300
+
+2023-05-01 15:26:59,758 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64787, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64787,53680914724300
+
+2023-05-01 15:26:59,758 INFO send udp packet: 192.168.0.104,64787,53680914724300
+
+2023-05-01 15:26:59,760 INFO received ack: {"type": "push-ack", "lastRefTime":"53680914724300", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 110
+
+2023-05-01 15:26:59,761 INFO received ack: {"type": "push-ack", "lastRefTime":"53680914724300", "data":""} from: 192.168.0.104:64787, cost: 3 ms, unacked: 0, total push: 110
+
+2023-05-01 15:28:02,711 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:28:02,711 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,53743868422400
+
+2023-05-01 15:28:02,711 INFO send udp packet: 192.168.0.104,57637,53743868422400
+
+2023-05-01 15:28:02,711 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64787, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64787,53743868422400
+
+2023-05-01 15:28:02,712 INFO send udp packet: 192.168.0.104,64787,53743868422400
+
+2023-05-01 15:28:02,714 INFO received ack: {"type": "push-ack", "lastRefTime":"53743868422400", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 112
+
+2023-05-01 15:28:02,715 INFO received ack: {"type": "push-ack", "lastRefTime":"53743868422400", "data":""} from: 192.168.0.104:64787, cost: 3 ms, unacked: 0, total push: 112
+
+2023-05-01 15:28:32,986 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:28:32,986 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53257, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53257,53774143622500
+
+2023-05-01 15:28:32,986 INFO send udp packet: 192.168.0.104,53257,53774143622500
+
+2023-05-01 15:28:32,989 INFO received ack: {"type": "push-ack", "lastRefTime":"53774143622500", "data":""} from: 192.168.0.104:53257, cost: 3 ms, unacked: 0, total push: 113
+
+2023-05-01 15:31:34,676 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:31:34,676 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,53955833659400
+
+2023-05-01 15:31:34,677 INFO send udp packet: 192.168.0.104,57637,53955833659400
+
+2023-05-01 15:31:34,677 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53257, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53257,53955833659400
+
+2023-05-01 15:31:34,677 INFO send udp packet: 192.168.0.104,53257,53955833659400
+
+2023-05-01 15:31:34,678 INFO received ack: {"type": "push-ack", "lastRefTime":"53955833659400", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 1, total push: 115
+
+2023-05-01 15:31:34,679 INFO received ack: {"type": "push-ack", "lastRefTime":"53955833659400", "data":""} from: 192.168.0.104:53257, cost: 2 ms, unacked: 0, total push: 115
+
+2023-05-01 15:32:05,890 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:32:05,890 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:59983, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,59983,53987047020200
+
+2023-05-01 15:32:05,890 INFO send udp packet: 192.168.0.104,59983,53987047020200
+
+2023-05-01 15:32:05,893 INFO received ack: {"type": "push-ack", "lastRefTime":"53987047020200", "data":""} from: 192.168.0.104:59983, cost: 3 ms, unacked: 0, total push: 116
+
+2023-05-01 15:38:21,131 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:38:21,131 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:59983, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,59983,54362288585800
+
+2023-05-01 15:38:21,131 INFO send udp packet: 192.168.0.104,59983,54362288585800
+
+2023-05-01 15:38:21,133 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,54362288585800
+
+2023-05-01 15:38:21,133 INFO send udp packet: 192.168.0.104,57637,54362288585800
+
+2023-05-01 15:38:21,133 INFO received ack: {"type": "push-ack", "lastRefTime":"54362288585800", "data":""} from: 192.168.0.104:59983, cost: 2 ms, unacked: 1, total push: 118
+
+2023-05-01 15:38:21,136 INFO received ack: {"type": "push-ack", "lastRefTime":"54362288585800", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 118
+
+2023-05-01 15:38:48,591 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:38:48,591 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:49667, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,49667,54389748301000
+
+2023-05-01 15:38:48,591 INFO send udp packet: 192.168.0.104,49667,54389748301000
+
+2023-05-01 15:38:48,591 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,54389748301000
+
+2023-05-01 15:38:48,591 INFO send udp packet: 192.168.0.104,57637,54389748301000
+
+2023-05-01 15:38:48,594 INFO received ack: {"type": "push-ack", "lastRefTime":"54389748301000", "data":""} from: 192.168.0.104:49667, cost: 3 ms, unacked: 1, total push: 120
+
+2023-05-01 15:38:48,595 INFO received ack: {"type": "push-ack", "lastRefTime":"54389748301000", "data":""} from: 192.168.0.104:57637, cost: 4 ms, unacked: 0, total push: 120
+
+2023-05-01 15:39:29,467 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:39:29,467 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:49667, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,49667,54430624213100
+
+2023-05-01 15:39:29,467 INFO send udp packet: 192.168.0.104,49667,54430624213100
+
+2023-05-01 15:39:29,467 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,54430624213100
+
+2023-05-01 15:39:29,467 INFO send udp packet: 192.168.0.104,57637,54430624213100
+
+2023-05-01 15:39:29,469 INFO received ack: {"type": "push-ack", "lastRefTime":"54430624213100", "data":""} from: 192.168.0.104:49667, cost: 2 ms, unacked: 1, total push: 122
+
+2023-05-01 15:39:29,469 INFO received ack: {"type": "push-ack", "lastRefTime":"54430624213100", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 0, total push: 122
+
+2023-05-01 15:39:59,547 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:39:59,547 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:49670, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,49670,54460704335700
+
+2023-05-01 15:39:59,547 INFO send udp packet: 192.168.0.104,49670,54460704335700
+
+2023-05-01 15:39:59,547 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,54460704335700
+
+2023-05-01 15:39:59,547 INFO send udp packet: 192.168.0.104,57637,54460704335700
+
+2023-05-01 15:39:59,550 INFO received ack: {"type": "push-ack", "lastRefTime":"54460704335700", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 124
+
+2023-05-01 15:39:59,551 INFO received ack: {"type": "push-ack", "lastRefTime":"54460704335700", "data":""} from: 192.168.0.104:49670, cost: 4 ms, unacked: 0, total push: 124
+
+2023-05-01 15:40:57,079 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:40:57,082 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:49670, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,49670,54518236892400
+
+2023-05-01 15:40:57,082 INFO send udp packet: 192.168.0.104,49670,54518236892400
+
+2023-05-01 15:40:57,082 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,54518236892400
+
+2023-05-01 15:40:57,082 INFO send udp packet: 192.168.0.104,57637,54518236892400
+
+2023-05-01 15:40:57,092 INFO received ack: {"type": "push-ack", "lastRefTime":"54518236892400", "data":""} from: 192.168.0.104:49670, cost: 10 ms, unacked: 1, total push: 126
+
+2023-05-01 15:40:57,092 INFO received ack: {"type": "push-ack", "lastRefTime":"54518236892400", "data":""} from: 192.168.0.104:57637, cost: 10 ms, unacked: 0, total push: 126
+
+2023-05-01 15:41:25,177 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:41:25,177 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:61789, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,61789,54546334288600
+
+2023-05-01 15:41:25,177 INFO send udp packet: 192.168.0.104,61789,54546334288600
+
+2023-05-01 15:41:25,179 INFO received ack: {"type": "push-ack", "lastRefTime":"54546334288600", "data":""} from: 192.168.0.104:61789, cost: 2 ms, unacked: 0, total push: 127
+
+2023-05-01 15:42:45,111 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:42:45,111 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:61789, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,61789,54626268453000
+
+2023-05-01 15:42:45,111 INFO send udp packet: 192.168.0.104,61789,54626268453000
+
+2023-05-01 15:42:45,111 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,54626268453000
+
+2023-05-01 15:42:45,111 INFO send udp packet: 192.168.0.104,57637,54626268453000
+
+2023-05-01 15:42:45,116 INFO received ack: {"type": "push-ack", "lastRefTime":"54626268453000", "data":""} from: 192.168.0.104:57637, cost: 5 ms, unacked: 1, total push: 129
+
+2023-05-01 15:42:45,116 INFO received ack: {"type": "push-ack", "lastRefTime":"54626268453000", "data":""} from: 192.168.0.104:61789, cost: 5 ms, unacked: 0, total push: 129
+
+2023-05-01 15:43:15,374 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 15:43:15,374 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58971, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58971,54656531419700
+
+2023-05-01 15:43:15,374 INFO send udp packet: 192.168.0.104,58971,54656531419700
+
+2023-05-01 15:43:15,377 INFO received ack: {"type": "push-ack", "lastRefTime":"54656531419700", "data":""} from: 192.168.0.104:58971, cost: 3 ms, unacked: 0, total push: 130
+
+2023-05-01 16:02:33,852 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:02:33,852 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58971, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58971,55815008886000
+
+2023-05-01 16:02:33,852 INFO send udp packet: 192.168.0.104,58971,55815008886000
+
+2023-05-01 16:02:33,852 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,55815008886000
+
+2023-05-01 16:02:33,852 INFO send udp packet: 192.168.0.104,57637,55815008886000
+
+2023-05-01 16:02:33,855 INFO received ack: {"type": "push-ack", "lastRefTime":"55815008886000", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 1, total push: 132
+
+2023-05-01 16:02:33,856 INFO received ack: {"type": "push-ack", "lastRefTime":"55815008886000", "data":""} from: 192.168.0.104:58971, cost: 4 ms, unacked: 0, total push: 132
+
+2023-05-01 16:03:07,419 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:03:07,419 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:59700, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,59700,55848576748100
+
+2023-05-01 16:03:07,419 INFO send udp packet: 192.168.0.104,59700,55848576748100
+
+2023-05-01 16:03:07,422 INFO received ack: {"type": "push-ack", "lastRefTime":"55848576748100", "data":""} from: 192.168.0.104:59700, cost: 3 ms, unacked: 0, total push: 133
+
+2023-05-01 16:03:40,113 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:03:40,113 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,55881269942200
+
+2023-05-01 16:03:40,113 INFO send udp packet: 192.168.0.104,57637,55881269942200
+
+2023-05-01 16:03:40,115 INFO received ack: {"type": "push-ack", "lastRefTime":"55881269942200", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 0, total push: 134
+
+2023-05-01 16:03:40,115 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:59700, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,59700,55881269942200
+
+2023-05-01 16:03:40,115 INFO send udp packet: 192.168.0.104,59700,55881269942200
+
+2023-05-01 16:03:40,117 INFO received ack: {"type": "push-ack", "lastRefTime":"55881269942200", "data":""} from: 192.168.0.104:59700, cost: 2 ms, unacked: 0, total push: 135
+
+2023-05-01 16:04:09,864 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:04:09,864 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:59703, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,59703,55911020793400
+
+2023-05-01 16:04:09,864 INFO send udp packet: 192.168.0.104,59703,55911020793400
+
+2023-05-01 16:04:09,864 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,55911020793400
+
+2023-05-01 16:04:09,864 INFO send udp packet: 192.168.0.104,57637,55911020793400
+
+2023-05-01 16:04:09,866 INFO received ack: {"type": "push-ack", "lastRefTime":"55911020793400", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 137
+
+2023-05-01 16:04:09,867 INFO received ack: {"type": "push-ack", "lastRefTime":"55911020793400", "data":""} from: 192.168.0.104:59703, cost: 3 ms, unacked: 0, total push: 137
+
+2023-05-01 16:12:59,347 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:12:59,347 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:59703, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,59703,56440503983500
+
+2023-05-01 16:12:59,347 INFO send udp packet: 192.168.0.104,59703,56440503983500
+
+2023-05-01 16:12:59,347 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,56440503983500
+
+2023-05-01 16:12:59,347 INFO send udp packet: 192.168.0.104,57637,56440503983500
+
+2023-05-01 16:12:59,348 INFO received ack: {"type": "push-ack", "lastRefTime":"56440503983500", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 1, total push: 139
+
+2023-05-01 16:12:59,349 INFO received ack: {"type": "push-ack", "lastRefTime":"56440503983500", "data":""} from: 192.168.0.104:59703, cost: 2 ms, unacked: 0, total push: 139
+
+2023-05-01 16:13:26,893 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:13:26,893 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:59299, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,59299,56468050690300
+
+2023-05-01 16:13:26,893 INFO send udp packet: 192.168.0.104,59299,56468050690300
+
+2023-05-01 16:13:26,896 INFO received ack: {"type": "push-ack", "lastRefTime":"56468050690300", "data":""} from: 192.168.0.104:59299, cost: 3 ms, unacked: 0, total push: 140
+
+2023-05-01 16:17:26,686 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:17:26,686 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,56707843147400
+
+2023-05-01 16:17:26,686 INFO send udp packet: 192.168.0.104,57637,56707843147400
+
+2023-05-01 16:17:26,686 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:59299, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,59299,56707843147400
+
+2023-05-01 16:17:26,686 INFO send udp packet: 192.168.0.104,59299,56707843147400
+
+2023-05-01 16:17:26,688 INFO received ack: {"type": "push-ack", "lastRefTime":"56707843147400", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 142
+
+2023-05-01 16:17:26,689 INFO received ack: {"type": "push-ack", "lastRefTime":"56707843147400", "data":""} from: 192.168.0.104:59299, cost: 3 ms, unacked: 0, total push: 142
+
+2023-05-01 16:17:52,197 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:17:52,197 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:61482, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,61482,56733353926400
+
+2023-05-01 16:17:52,197 INFO send udp packet: 192.168.0.104,61482,56733353926400
+
+2023-05-01 16:17:52,197 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,56733353926400
+
+2023-05-01 16:17:52,197 INFO send udp packet: 192.168.0.104,57637,56733353926400
+
+2023-05-01 16:17:52,200 INFO received ack: {"type": "push-ack", "lastRefTime":"56733353926400", "data":""} from: 192.168.0.104:61482, cost: 3 ms, unacked: 1, total push: 144
+
+2023-05-01 16:17:52,200 INFO received ack: {"type": "push-ack", "lastRefTime":"56733353926400", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 144
+
+2023-05-01 16:24:22,976 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:24:22,976 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:61482, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,61482,57124133386800
+
+2023-05-01 16:24:22,976 INFO send udp packet: 192.168.0.104,61482,57124133386800
+
+2023-05-01 16:24:22,976 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,57124133386800
+
+2023-05-01 16:24:22,976 INFO send udp packet: 192.168.0.104,57637,57124133386800
+
+2023-05-01 16:24:22,978 INFO received ack: {"type": "push-ack", "lastRefTime":"57124133386800", "data":""} from: 192.168.0.104:61482, cost: 2 ms, unacked: 1, total push: 146
+
+2023-05-01 16:24:22,978 INFO received ack: {"type": "push-ack", "lastRefTime":"57124133386800", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 0, total push: 146
+
+2023-05-01 16:34:17,583 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:34:17,583 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:54310, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,54310,57718740114600
+
+2023-05-01 16:34:17,583 INFO send udp packet: 192.168.0.104,54310,57718740114600
+
+2023-05-01 16:34:17,586 INFO received ack: {"type": "push-ack", "lastRefTime":"57718740114600", "data":""} from: 192.168.0.104:54310, cost: 3 ms, unacked: 0, total push: 147
+
+2023-05-01 16:35:31,265 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:35:31,265 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:54310, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,54310,57792422492300
+
+2023-05-01 16:35:31,265 INFO send udp packet: 192.168.0.104,54310,57792422492300
+
+2023-05-01 16:35:31,265 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,57792422492300
+
+2023-05-01 16:35:31,265 INFO send udp packet: 192.168.0.104,57637,57792422492300
+
+2023-05-01 16:35:31,268 INFO received ack: {"type": "push-ack", "lastRefTime":"57792422492300", "data":""} from: 192.168.0.104:54310, cost: 3 ms, unacked: 1, total push: 149
+
+2023-05-01 16:35:31,268 INFO received ack: {"type": "push-ack", "lastRefTime":"57792422492300", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 149
+
+2023-05-01 16:36:00,431 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:36:00,431 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:54314, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,54314,57821587600600
+
+2023-05-01 16:36:00,431 INFO send udp packet: 192.168.0.104,54314,57821587600600
+
+2023-05-01 16:36:00,433 INFO received ack: {"type": "push-ack", "lastRefTime":"57821587600600", "data":""} from: 192.168.0.104:54314, cost: 2 ms, unacked: 0, total push: 150
+
+2023-05-01 16:38:30,302 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:38:30,302 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:54314, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,54314,57971458756100
+
+2023-05-01 16:38:30,302 INFO send udp packet: 192.168.0.104,54314,57971458756100
+
+2023-05-01 16:38:30,302 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,57971458756100
+
+2023-05-01 16:38:30,302 INFO send udp packet: 192.168.0.104,57637,57971458756100
+
+2023-05-01 16:38:30,304 INFO received ack: {"type": "push-ack", "lastRefTime":"57971458756100", "data":""} from: 192.168.0.104:57637, cost: 2 ms, unacked: 1, total push: 152
+
+2023-05-01 16:38:30,304 INFO received ack: {"type": "push-ack", "lastRefTime":"57971458756100", "data":""} from: 192.168.0.104:54314, cost: 2 ms, unacked: 0, total push: 152
+
+2023-05-01 16:38:56,780 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:38:56,780 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:54318, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,54318,57997937509100
+
+2023-05-01 16:38:56,780 INFO send udp packet: 192.168.0.104,54318,57997937509100
+
+2023-05-01 16:38:56,787 INFO received ack: {"type": "push-ack", "lastRefTime":"57997937509100", "data":""} from: 192.168.0.104:54318, cost: 7 ms, unacked: 0, total push: 153
+
+2023-05-01 16:44:11,161 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:44:11,161 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:54318, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,54318,58312318064300
+
+2023-05-01 16:44:11,161 INFO send udp packet: 192.168.0.104,54318,58312318064300
+
+2023-05-01 16:44:11,162 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,58312318064300
+
+2023-05-01 16:44:11,162 INFO send udp packet: 192.168.0.104,57637,58312318064300
+
+2023-05-01 16:44:11,163 INFO received ack: {"type": "push-ack", "lastRefTime":"58312318064300", "data":""} from: 192.168.0.104:54318, cost: 2 ms, unacked: 1, total push: 155
+
+2023-05-01 16:44:11,165 INFO received ack: {"type": "push-ack", "lastRefTime":"58312318064300", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 155
+
+2023-05-01 16:44:39,722 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:44:39,722 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:54328, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,54328,58340879560800
+
+2023-05-01 16:44:39,722 INFO send udp packet: 192.168.0.104,54328,58340879560800
+
+2023-05-01 16:44:39,725 INFO received ack: {"type": "push-ack", "lastRefTime":"58340879560800", "data":""} from: 192.168.0.104:54328, cost: 3 ms, unacked: 0, total push: 156
+
+2023-05-01 16:47:15,709 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:47:15,709 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:54328, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,54328,58496866359600
+
+2023-05-01 16:47:15,709 INFO send udp packet: 192.168.0.104,54328,58496866359600
+
+2023-05-01 16:47:15,711 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,58496866359600
+
+2023-05-01 16:47:15,711 INFO send udp packet: 192.168.0.104,57637,58496866359600
+
+2023-05-01 16:47:15,713 INFO received ack: {"type": "push-ack", "lastRefTime":"58496866359600", "data":""} from: 192.168.0.104:54328, cost: 4 ms, unacked: 1, total push: 158
+
+2023-05-01 16:47:15,714 INFO received ack: {"type": "push-ack", "lastRefTime":"58496866359600", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 158
+
+2023-05-01 16:47:45,276 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:47:45,276 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:52508, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,52508,58526432908300
+
+2023-05-01 16:47:45,276 INFO send udp packet: 192.168.0.104,52508,58526432908300
+
+2023-05-01 16:47:45,276 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,58526432908300
+
+2023-05-01 16:47:45,276 INFO send udp packet: 192.168.0.104,57637,58526432908300
+
+2023-05-01 16:47:45,280 INFO received ack: {"type": "push-ack", "lastRefTime":"58526432908300", "data":""} from: 192.168.0.104:57637, cost: 4 ms, unacked: 1, total push: 160
+
+2023-05-01 16:47:45,280 INFO received ack: {"type": "push-ack", "lastRefTime":"58526432908300", "data":""} from: 192.168.0.104:52508, cost: 4 ms, unacked: 0, total push: 160
+
+2023-05-01 16:50:51,855 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:50:51,855 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:52508, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,52508,58713012921800
+
+2023-05-01 16:50:51,855 INFO send udp packet: 192.168.0.104,52508,58713012921800
+
+2023-05-01 16:50:51,857 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,58713012921800
+
+2023-05-01 16:50:51,857 INFO send udp packet: 192.168.0.104,57637,58713012921800
+
+2023-05-01 16:50:51,858 INFO received ack: {"type": "push-ack", "lastRefTime":"58713012921800", "data":""} from: 192.168.0.104:52508, cost: 3 ms, unacked: 1, total push: 162
+
+2023-05-01 16:50:51,858 INFO received ack: {"type": "push-ack", "lastRefTime":"58713012921800", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 0, total push: 162
+
+2023-05-01 16:51:20,450 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 16:51:20,450 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:52512, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,52512,58741606635500
+
+2023-05-01 16:51:20,450 INFO send udp packet: 192.168.0.104,52512,58741606635500
+
+2023-05-01 16:51:20,452 INFO received ack: {"type": "push-ack", "lastRefTime":"58741606635500", "data":""} from: 192.168.0.104:52512, cost: 2 ms, unacked: 0, total push: 163
+
+2023-05-01 19:37:00,369 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2023-05-01 19:37:00,369 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 19:37:00,369 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 19:37:01,428 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 19:37:01,429 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:52512, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,52512,68682585536700
+
+2023-05-01 19:37:01,429 INFO send udp packet: 192.168.0.104,52512,68682585536700
+
+2023-05-01 19:37:01,432 INFO received ack: {"type": "push-ack", "lastRefTime":"68682585536700", "data":""} from: 192.168.0.104:52512, cost: 3 ms, unacked: 0, total push: 164
+
+2023-05-01 19:37:03,295 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 19:37:03,295 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:52512, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,52512,68684452414400
+
+2023-05-01 19:37:03,295 INFO send udp packet: 192.168.0.104,52512,68684452414400
+
+2023-05-01 19:37:03,296 INFO received ack: {"type": "push-ack", "lastRefTime":"68684452414400", "data":""} from: 192.168.0.104:52512, cost: 1 ms, unacked: 0, total push: 165
+
+2023-05-01 19:37:07,570 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2023-05-01 19:37:07,571 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,68688727098200
+
+2023-05-01 19:37:07,571 INFO send udp packet: 192.168.0.104,57637,68688727098200
+
+2023-05-01 19:37:07,572 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,68688727098200
+
+2023-05-01 19:37:07,572 INFO send udp packet: 192.168.0.104,57637,68688727098200
+
+2023-05-01 19:37:07,573 INFO received ack: {"type": "push-ack", "lastRefTime":"68688727098200", "data":""} from: 192.168.0.104:57637, cost: 1 ms, unacked: 0, total push: 166
+
+2023-05-01 19:37:07,576 ERROR [NACOS-PUSH] error while receiving ack data
+
+java.lang.IllegalStateException: unable to find ackEntry for key: 192.168.0.104,57637,68688727098200, ack json: {"type": "push-ack", "lastRefTime":"68688727098200", "data":""}
+	at com.alibaba.nacos.naming.push.PushService$Receiver.run(PushService.java:680)
+	at java.lang.Thread.run(Thread.java:748)
+2023-05-01 19:37:07,754 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 19:37:07,754 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:52512, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,52512,68688911172700
+
+2023-05-01 19:37:07,754 INFO send udp packet: 192.168.0.104,52512,68688911172700
+
+2023-05-01 19:37:07,756 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,68688911172700
+
+2023-05-01 19:37:07,756 INFO send udp packet: 192.168.0.104,57637,68688911172700
+
+2023-05-01 19:37:07,757 INFO received ack: {"type": "push-ack", "lastRefTime":"68688911172700", "data":""} from: 192.168.0.104:52512, cost: 3 ms, unacked: 1, total push: 168
+
+2023-05-01 19:37:07,759 INFO received ack: {"type": "push-ack", "lastRefTime":"68688911172700", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 0, total push: 168
+
+2023-05-01 19:37:07,785 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 19:37:07,785 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:57637, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57637,68688942375400
+
+2023-05-01 19:37:07,785 INFO send udp packet: 192.168.0.104,57637,68688942375400
+
+2023-05-01 19:37:07,786 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:52206, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,52206,68688942375400
+
+2023-05-01 19:37:07,786 INFO send udp packet: 192.168.0.104,52206,68688942375400
+
+2023-05-01 19:37:07,787 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:52512, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,52512,68688942375400
+
+2023-05-01 19:37:07,787 INFO send udp packet: 192.168.0.104,52512,68688942375400
+
+2023-05-01 19:37:07,788 INFO received ack: {"type": "push-ack", "lastRefTime":"68688942375400", "data":""} from: 192.168.0.104:57637, cost: 3 ms, unacked: 2, total push: 171
+
+2023-05-01 19:37:07,789 INFO received ack: {"type": "push-ack", "lastRefTime":"68688942375400", "data":""} from: 192.168.0.104:52512, cost: 2 ms, unacked: 1, total push: 171
+
+2023-05-01 19:37:07,791 INFO received ack: {"type": "push-ack", "lastRefTime":"68688942375400", "data":""} from: 192.168.0.104:52206, cost: 5 ms, unacked: 0, total push: 171
+
+2023-05-01 20:33:53,931 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 20:33:53,943 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58708, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58708,72095092669800
+
+2023-05-01 20:33:53,943 INFO send udp packet: 192.168.0.104,58708,72095092669800
+
+2023-05-01 20:33:53,952 INFO received ack: {"type": "push-ack", "lastRefTime":"72095092669800", "data":""} from: 192.168.0.104:58708, cost: 8 ms, unacked: 0, total push: 1
+
+2023-05-01 20:33:56,842 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 20:33:56,842 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:58709, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58709,72097999404600
+
+2023-05-01 20:33:56,842 INFO send udp packet: 192.168.0.104,58709,72097999404600
+
+2023-05-01 20:33:56,845 INFO received ack: {"type": "push-ack", "lastRefTime":"72097999404600", "data":""} from: 192.168.0.104:58709, cost: 3 ms, unacked: 0, total push: 2
+
+2023-05-01 20:34:00,108 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2023-05-01 20:34:00,109 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:58710, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58710,72101265138900
+
+2023-05-01 20:34:00,109 INFO send udp packet: 192.168.0.104,58710,72101265138900
+
+2023-05-01 20:34:00,110 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:58710, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58710,72101265138900
+
+2023-05-01 20:34:00,111 INFO send udp packet: 192.168.0.104,58710,72101265138900
+
+2023-05-01 20:34:00,112 INFO received ack: {"type": "push-ack", "lastRefTime":"72101265138900", "data":""} from: 192.168.0.104:58710, cost: 1 ms, unacked: 0, total push: 3
+
+2023-05-01 20:34:00,115 ERROR [NACOS-PUSH] error while receiving ack data
+
+java.lang.IllegalStateException: unable to find ackEntry for key: 192.168.0.104,58710,72101265138900, ack json: {"type": "push-ack", "lastRefTime":"72101265138900", "data":""}
+	at com.alibaba.nacos.naming.push.PushService$Receiver.run(PushService.java:680)
+	at java.lang.Thread.run(Thread.java:748)
+2023-05-01 20:35:45,205 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 20:35:45,205 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58708, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58708,72206362428800
+
+2023-05-01 20:35:45,206 INFO send udp packet: 192.168.0.104,58708,72206362428800
+
+2023-05-01 20:35:45,206 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58710, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58710,72206362428800
+
+2023-05-01 20:35:45,206 INFO send udp packet: 192.168.0.104,58710,72206362428800
+
+2023-05-01 20:35:45,209 INFO received ack: {"type": "push-ack", "lastRefTime":"72206362428800", "data":""} from: 192.168.0.104:58710, cost: 3 ms, unacked: 1, total push: 5
+
+2023-05-01 20:35:45,209 INFO received ack: {"type": "push-ack", "lastRefTime":"72206362428800", "data":""} from: 192.168.0.104:58708, cost: 3 ms, unacked: 0, total push: 5
+
+2023-05-01 20:36:16,473 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 20:36:16,474 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53784, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53784,72237630114900
+
+2023-05-01 20:36:16,475 INFO send udp packet: 192.168.0.104,53784,72237630114900
+
+2023-05-01 20:36:16,479 INFO received ack: {"type": "push-ack", "lastRefTime":"72237630114900", "data":""} from: 192.168.0.104:53784, cost: 4 ms, unacked: 0, total push: 6
+
+2023-05-01 20:46:55,342 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 20:46:55,342 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58710, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58710,72876499438600
+
+2023-05-01 20:46:55,342 INFO send udp packet: 192.168.0.104,58710,72876499438600
+
+2023-05-01 20:46:55,343 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53784, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53784,72876499438600
+
+2023-05-01 20:46:55,343 INFO send udp packet: 192.168.0.104,53784,72876499438600
+
+2023-05-01 20:46:55,344 INFO received ack: {"type": "push-ack", "lastRefTime":"72876499438600", "data":""} from: 192.168.0.104:58710, cost: 2 ms, unacked: 1, total push: 8
+
+2023-05-01 20:46:55,345 INFO received ack: {"type": "push-ack", "lastRefTime":"72876499438600", "data":""} from: 192.168.0.104:53784, cost: 2 ms, unacked: 0, total push: 8
+
+2023-05-01 20:47:22,592 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 20:47:22,592 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58710, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58710,72903749137100
+
+2023-05-01 20:47:22,592 INFO send udp packet: 192.168.0.104,58710,72903749137100
+
+2023-05-01 20:47:22,592 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64493, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64493,72903749137100
+
+2023-05-01 20:47:22,592 INFO send udp packet: 192.168.0.104,64493,72903749137100
+
+2023-05-01 20:47:22,595 INFO received ack: {"type": "push-ack", "lastRefTime":"72903749137100", "data":""} from: 192.168.0.104:58710, cost: 3 ms, unacked: 1, total push: 10
+
+2023-05-01 20:47:22,595 INFO received ack: {"type": "push-ack", "lastRefTime":"72903749137100", "data":""} from: 192.168.0.104:64493, cost: 3 ms, unacked: 0, total push: 10
+
+2023-05-01 20:48:10,910 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 20:48:10,910 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58710, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58710,72952067675400
+
+2023-05-01 20:48:10,910 INFO send udp packet: 192.168.0.104,58710,72952067675400
+
+2023-05-01 20:48:10,910 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64493, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64493,72952067675400
+
+2023-05-01 20:48:10,910 INFO send udp packet: 192.168.0.104,64493,72952067675400
+
+2023-05-01 20:48:10,911 INFO received ack: {"type": "push-ack", "lastRefTime":"72952067675400", "data":""} from: 192.168.0.104:58710, cost: 1 ms, unacked: 1, total push: 12
+
+2023-05-01 20:48:10,912 INFO received ack: {"type": "push-ack", "lastRefTime":"72952067675400", "data":""} from: 192.168.0.104:64493, cost: 2 ms, unacked: 0, total push: 12
+
+2023-05-01 20:48:38,059 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 20:48:38,059 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64495, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64495,72979216285300
+
+2023-05-01 20:48:38,059 INFO send udp packet: 192.168.0.104,64495,72979216285300
+
+2023-05-01 20:48:38,062 INFO received ack: {"type": "push-ack", "lastRefTime":"72979216285300", "data":""} from: 192.168.0.104:64495, cost: 3 ms, unacked: 0, total push: 13
+
+2023-05-01 21:05:19,248 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 21:05:19,248 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58710, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58710,73980405011600
+
+2023-05-01 21:05:19,248 INFO send udp packet: 192.168.0.104,58710,73980405011600
+
+2023-05-01 21:05:19,251 INFO received ack: {"type": "push-ack", "lastRefTime":"73980405011600", "data":""} from: 192.168.0.104:58710, cost: 3 ms, unacked: 0, total push: 14
+
+2023-05-01 21:05:19,251 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:64495, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,64495,73980405011600
+
+2023-05-01 21:05:19,251 INFO send udp packet: 192.168.0.104,64495,73980405011600
+
+2023-05-01 21:05:19,252 INFO received ack: {"type": "push-ack", "lastRefTime":"73980405011600", "data":""} from: 192.168.0.104:64495, cost: 1 ms, unacked: 0, total push: 15
+
+2023-05-01 21:05:44,936 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 21:05:44,936 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58710, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58710,74006093412900
+
+2023-05-01 21:05:44,936 INFO send udp packet: 192.168.0.104,58710,74006093412900
+
+2023-05-01 21:05:44,936 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:51417, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,51417,74006093412900
+
+2023-05-01 21:05:44,936 INFO send udp packet: 192.168.0.104,51417,74006093412900
+
+2023-05-01 21:05:44,938 INFO received ack: {"type": "push-ack", "lastRefTime":"74006093412900", "data":""} from: 192.168.0.104:58710, cost: 2 ms, unacked: 1, total push: 17
+
+2023-05-01 21:05:44,939 INFO received ack: {"type": "push-ack", "lastRefTime":"74006093412900", "data":""} from: 192.168.0.104:51417, cost: 3 ms, unacked: 0, total push: 17
+
+2023-05-01 21:06:38,873 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 21:06:38,873 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58710, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58710,74060030903600
+
+2023-05-01 21:06:38,873 INFO send udp packet: 192.168.0.104,58710,74060030903600
+
+2023-05-01 21:06:38,875 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:51417, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,51417,74060030903600
+
+2023-05-01 21:06:38,875 INFO send udp packet: 192.168.0.104,51417,74060030903600
+
+2023-05-01 21:06:38,875 INFO received ack: {"type": "push-ack", "lastRefTime":"74060030903600", "data":""} from: 192.168.0.104:58710, cost: 2 ms, unacked: 1, total push: 19
+
+2023-05-01 21:06:38,877 INFO received ack: {"type": "push-ack", "lastRefTime":"74060030903600", "data":""} from: 192.168.0.104:51417, cost: 2 ms, unacked: 0, total push: 19
+
+2023-05-01 21:06:54,885 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 21:06:54,885 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58710, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58710,74076042642800
+
+2023-05-01 21:06:54,885 INFO send udp packet: 192.168.0.104,58710,74076042642800
+
+2023-05-01 21:06:54,886 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:51420, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,51420,74076042642800
+
+2023-05-01 21:06:54,886 INFO send udp packet: 192.168.0.104,51420,74076042642800
+
+2023-05-01 21:06:54,888 INFO received ack: {"type": "push-ack", "lastRefTime":"74076042642800", "data":""} from: 192.168.0.104:58710, cost: 3 ms, unacked: 1, total push: 21
+
+2023-05-01 21:06:54,889 INFO received ack: {"type": "push-ack", "lastRefTime":"74076042642800", "data":""} from: 192.168.0.104:51420, cost: 3 ms, unacked: 0, total push: 21
+
+2023-05-01 21:08:22,395 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 21:08:22,395 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58710, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58710,74163552017500
+
+2023-05-01 21:08:22,395 INFO send udp packet: 192.168.0.104,58710,74163552017500
+
+2023-05-01 21:08:22,395 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:51420, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,51420,74163552017500
+
+2023-05-01 21:08:22,395 INFO send udp packet: 192.168.0.104,51420,74163552017500
+
+2023-05-01 21:08:22,397 INFO received ack: {"type": "push-ack", "lastRefTime":"74163552017500", "data":""} from: 192.168.0.104:58710, cost: 2 ms, unacked: 1, total push: 23
+
+2023-05-01 21:08:22,397 INFO received ack: {"type": "push-ack", "lastRefTime":"74163552017500", "data":""} from: 192.168.0.104:51420, cost: 2 ms, unacked: 0, total push: 23
+
+2023-05-01 21:08:52,554 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 21:08:52,554 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:58428, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,58428,74193711482900
+
+2023-05-01 21:08:52,554 INFO send udp packet: 192.168.0.104,58428,74193711482900
+
+2023-05-01 21:08:52,556 INFO received ack: {"type": "push-ack", "lastRefTime":"74193711482900", "data":""} from: 192.168.0.104:58428, cost: 2 ms, unacked: 0, total push: 24
+
+2023-05-01 22:21:18,444 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 22:21:18,465 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57187, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57187,78539609115600
+
+2023-05-01 22:21:18,465 INFO send udp packet: 192.168.0.104,57187,78539609115600
+
+2023-05-01 22:21:18,478 INFO received ack: {"type": "push-ack", "lastRefTime":"78539609115600", "data":""} from: 192.168.0.104:57187, cost: 12 ms, unacked: 0, total push: 1
+
+2023-05-01 22:21:21,003 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 22:21:21,003 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:57188, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57188,78542160010900
+
+2023-05-01 22:21:21,003 INFO send udp packet: 192.168.0.104,57188,78542160010900
+
+2023-05-01 22:21:21,009 INFO received ack: {"type": "push-ack", "lastRefTime":"78542160010900", "data":""} from: 192.168.0.104:57188, cost: 6 ms, unacked: 0, total push: 2
+
+2023-05-01 22:21:23,921 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2023-05-01 22:21:23,921 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57189, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57189,78545078316100
+
+2023-05-01 22:21:23,921 INFO send udp packet: 192.168.0.104,57189,78545078316100
+
+2023-05-01 22:21:23,923 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57189, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57189,78545078316100
+
+2023-05-01 22:21:23,923 INFO send udp packet: 192.168.0.104,57189,78545078316100
+
+2023-05-01 22:21:23,924 INFO received ack: {"type": "push-ack", "lastRefTime":"78545078316100", "data":""} from: 192.168.0.104:57189, cost: 1 ms, unacked: 0, total push: 3
+
+2023-05-01 22:21:23,927 ERROR [NACOS-PUSH] error while receiving ack data
+
+java.lang.IllegalStateException: unable to find ackEntry for key: 192.168.0.104,57189,78545078316100, ack json: {"type": "push-ack", "lastRefTime":"78545078316100", "data":""}
+	at com.alibaba.nacos.naming.push.PushService$Receiver.run(PushService.java:680)
+	at java.lang.Thread.run(Thread.java:748)
+2023-05-01 22:35:09,441 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2023-05-01 22:35:09,442 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57189, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57189,79370598453200
+
+2023-05-01 22:35:09,442 INFO send udp packet: 192.168.0.104,57189,79370598453200
+
+2023-05-01 22:35:09,442 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57189, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57189,79370598453200
+
+2023-05-01 22:35:09,442 INFO send udp packet: 192.168.0.104,57189,79370598453200
+
+2023-05-01 22:35:09,444 INFO received ack: {"type": "push-ack", "lastRefTime":"79370598453200", "data":""} from: 192.168.0.104:57189, cost: 2 ms, unacked: 0, total push: 4
+
+2023-05-01 22:35:09,446 ERROR [NACOS-PUSH] error while receiving ack data
+
+java.lang.IllegalStateException: unable to find ackEntry for key: 192.168.0.104,57189,79370598453200, ack json: {"type": "push-ack", "lastRefTime":"79370598453200", "data":""}
+	at com.alibaba.nacos.naming.push.PushService$Receiver.run(PushService.java:680)
+	at java.lang.Thread.run(Thread.java:748)
+2023-05-01 22:35:09,628 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 22:35:09,628 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57187, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57187,79370785023600
+
+2023-05-01 22:35:09,628 INFO send udp packet: 192.168.0.104,57187,79370785023600
+
+2023-05-01 22:35:09,628 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57189, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57189,79370785023600
+
+2023-05-01 22:35:09,628 INFO send udp packet: 192.168.0.104,57189,79370785023600
+
+2023-05-01 22:35:09,628 INFO received ack: {"type": "push-ack", "lastRefTime":"79370785023600", "data":""} from: 192.168.0.104:57187, cost: 0 ms, unacked: 1, total push: 6
+
+2023-05-01 22:35:09,630 INFO received ack: {"type": "push-ack", "lastRefTime":"79370785023600", "data":""} from: 192.168.0.104:57189, cost: 2 ms, unacked: 0, total push: 6
+
+2023-05-01 22:35:09,643 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 22:35:09,643 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:57189, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57189,79370799909200
+
+2023-05-01 22:35:09,643 INFO send udp packet: 192.168.0.104,57189,79370799909200
+
+2023-05-01 22:35:09,643 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:57188, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57188,79370799909200
+
+2023-05-01 22:35:09,643 INFO send udp packet: 192.168.0.104,57188,79370799909200
+
+2023-05-01 22:35:09,645 INFO received ack: {"type": "push-ack", "lastRefTime":"79370799909200", "data":""} from: 192.168.0.104:57189, cost: 2 ms, unacked: 1, total push: 8
+
+2023-05-01 22:35:09,645 INFO received ack: {"type": "push-ack", "lastRefTime":"79370799909200", "data":""} from: 192.168.0.104:57188, cost: 2 ms, unacked: 0, total push: 8
+
+2023-05-01 22:35:37,981 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 22:35:37,981 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57205, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57205,79399137973200
+
+2023-05-01 22:35:37,981 INFO send udp packet: 192.168.0.104,57205,79399137973200
+
+2023-05-01 22:35:37,985 INFO received ack: {"type": "push-ack", "lastRefTime":"79399137973200", "data":""} from: 192.168.0.104:57205, cost: 4 ms, unacked: 0, total push: 9
+
+2023-05-01 22:35:40,957 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 22:35:40,957 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:57207, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57207,79402113941600
+
+2023-05-01 22:35:40,957 INFO send udp packet: 192.168.0.104,57207,79402113941600
+
+2023-05-01 22:35:40,960 INFO received ack: {"type": "push-ack", "lastRefTime":"79402113941600", "data":""} from: 192.168.0.104:57207, cost: 3 ms, unacked: 0, total push: 10
+
+2023-05-01 22:35:43,853 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2023-05-01 22:35:43,853 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,79405009838700
+
+2023-05-01 22:35:43,853 INFO send udp packet: 192.168.0.104,57208,79405009838700
+
+2023-05-01 22:35:43,858 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,79405009838700
+
+2023-05-01 22:35:43,858 INFO send udp packet: 192.168.0.104,57208,79405009838700
+
+2023-05-01 22:35:43,858 INFO received ack: {"type": "push-ack", "lastRefTime":"79405009838700", "data":""} from: 192.168.0.104:57208, cost: 0 ms, unacked: 0, total push: 11
+
+2023-05-01 22:35:43,859 ERROR [NACOS-PUSH] error while receiving ack data
+
+java.lang.IllegalStateException: unable to find ackEntry for key: 192.168.0.104,57208,79405009838700, ack json: {"type": "push-ack", "lastRefTime":"79405009838700", "data":""}
+	at com.alibaba.nacos.naming.push.PushService$Receiver.run(PushService.java:680)
+	at java.lang.Thread.run(Thread.java:748)
+2023-05-01 22:41:24,616 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 22:41:24,616 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57205, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57205,79745773858700
+
+2023-05-01 22:41:24,616 INFO send udp packet: 192.168.0.104,57205,79745773858700
+
+2023-05-01 22:41:24,617 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,79745773858700
+
+2023-05-01 22:41:24,617 INFO send udp packet: 192.168.0.104,57208,79745773858700
+
+2023-05-01 22:41:24,619 INFO received ack: {"type": "push-ack", "lastRefTime":"79745773858700", "data":""} from: 192.168.0.104:57205, cost: 3 ms, unacked: 1, total push: 13
+
+2023-05-01 22:41:24,619 INFO received ack: {"type": "push-ack", "lastRefTime":"79745773858700", "data":""} from: 192.168.0.104:57208, cost: 2 ms, unacked: 0, total push: 13
+
+2023-05-01 22:41:54,046 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 22:41:54,046 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57225, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57225,79775203219200
+
+2023-05-01 22:41:54,046 INFO send udp packet: 192.168.0.104,57225,79775203219200
+
+2023-05-01 22:41:54,046 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,79775203219200
+
+2023-05-01 22:41:54,046 INFO send udp packet: 192.168.0.104,57208,79775203219200
+
+2023-05-01 22:41:54,049 INFO received ack: {"type": "push-ack", "lastRefTime":"79775203219200", "data":""} from: 192.168.0.104:57208, cost: 3 ms, unacked: 1, total push: 15
+
+2023-05-01 22:41:54,049 INFO received ack: {"type": "push-ack", "lastRefTime":"79775203219200", "data":""} from: 192.168.0.104:57225, cost: 3 ms, unacked: 0, total push: 15
+
+2023-05-01 22:42:01,976 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 22:42:01,976 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57225, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57225,79783133119000
+
+2023-05-01 22:42:01,976 INFO send udp packet: 192.168.0.104,57225,79783133119000
+
+2023-05-01 22:42:01,978 INFO received ack: {"type": "push-ack", "lastRefTime":"79783133119000", "data":""} from: 192.168.0.104:57225, cost: 2 ms, unacked: 0, total push: 16
+
+2023-05-01 22:42:29,115 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 22:42:29,115 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57226, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57226,79810271765000
+
+2023-05-01 22:42:29,115 INFO send udp packet: 192.168.0.104,57226,79810271765000
+
+2023-05-01 22:42:29,115 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,79810271765000
+
+2023-05-01 22:42:29,115 INFO send udp packet: 192.168.0.104,57208,79810271765000
+
+2023-05-01 22:42:29,117 INFO received ack: {"type": "push-ack", "lastRefTime":"79810271765000", "data":""} from: 192.168.0.104:57208, cost: 2 ms, unacked: 1, total push: 18
+
+2023-05-01 22:42:29,117 INFO received ack: {"type": "push-ack", "lastRefTime":"79810271765000", "data":""} from: 192.168.0.104:57226, cost: 2 ms, unacked: 0, total push: 18
+
+2023-05-01 22:43:15,410 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 22:43:15,410 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57226, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57226,79856567447300
+
+2023-05-01 22:43:15,410 INFO send udp packet: 192.168.0.104,57226,79856567447300
+
+2023-05-01 22:43:15,410 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,79856567447300
+
+2023-05-01 22:43:15,410 INFO send udp packet: 192.168.0.104,57208,79856567447300
+
+2023-05-01 22:43:15,412 INFO received ack: {"type": "push-ack", "lastRefTime":"79856567447300", "data":""} from: 192.168.0.104:57226, cost: 2 ms, unacked: 1, total push: 20
+
+2023-05-01 22:43:15,412 INFO received ack: {"type": "push-ack", "lastRefTime":"79856567447300", "data":""} from: 192.168.0.104:57208, cost: 2 ms, unacked: 0, total push: 20
+
+2023-05-01 22:43:31,305 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 22:43:31,305 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57234, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57234,79872461686400
+
+2023-05-01 22:43:31,305 INFO send udp packet: 192.168.0.104,57234,79872461686400
+
+2023-05-01 22:43:31,305 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,79872461686400
+
+2023-05-01 22:43:31,305 INFO send udp packet: 192.168.0.104,57208,79872461686400
+
+2023-05-01 22:43:31,309 INFO received ack: {"type": "push-ack", "lastRefTime":"79872461686400", "data":""} from: 192.168.0.104:57234, cost: 4 ms, unacked: 1, total push: 22
+
+2023-05-01 22:43:31,309 INFO received ack: {"type": "push-ack", "lastRefTime":"79872461686400", "data":""} from: 192.168.0.104:57208, cost: 4 ms, unacked: 0, total push: 22
+
+2023-05-01 22:45:56,169 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 22:45:56,169 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57234, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57234,80017326191800
+
+2023-05-01 22:45:56,169 INFO send udp packet: 192.168.0.104,57234,80017326191800
+
+2023-05-01 22:45:56,170 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,80017326191800
+
+2023-05-01 22:45:56,171 INFO send udp packet: 192.168.0.104,57208,80017326191800
+
+2023-05-01 22:45:56,173 INFO received ack: {"type": "push-ack", "lastRefTime":"80017326191800", "data":""} from: 192.168.0.104:57234, cost: 4 ms, unacked: 1, total push: 24
+
+2023-05-01 22:45:56,173 INFO received ack: {"type": "push-ack", "lastRefTime":"80017326191800", "data":""} from: 192.168.0.104:57208, cost: 3 ms, unacked: 0, total push: 24
+
+2023-05-01 22:46:23,563 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 22:46:23,563 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:62861, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,62861,80044719978600
+
+2023-05-01 22:46:23,563 INFO send udp packet: 192.168.0.104,62861,80044719978600
+
+2023-05-01 22:46:23,567 INFO received ack: {"type": "push-ack", "lastRefTime":"80044719978600", "data":""} from: 192.168.0.104:62861, cost: 4 ms, unacked: 0, total push: 25
+
+2023-05-01 23:01:24,640 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2023-05-01 23:01:24,640 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2023-05-01 23:01:24,640 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 23:01:24,640 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 23:01:26,375 INFO DEFAULT_GROUP@@attendinfo is changed, add it to push queue.
+
+2023-05-01 23:01:26,375 INFO serviceName: DEFAULT_GROUP@@attendinfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,80947532003200
+
+2023-05-01 23:01:26,375 INFO send udp packet: 192.168.0.104,57208,80947532003200
+
+2023-05-01 23:01:26,376 INFO received ack: {"type": "push-ack", "lastRefTime":"80947532003200", "data":""} from: 192.168.0.104:57208, cost: 1 ms, unacked: 0, total push: 26
+
+2023-05-01 23:01:27,736 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 23:01:27,736 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,80948893937400
+
+2023-05-01 23:01:27,736 INFO send udp packet: 192.168.0.104,57208,80948893937400
+
+2023-05-01 23:01:27,738 INFO received ack: {"type": "push-ack", "lastRefTime":"80948893937400", "data":""} from: 192.168.0.104:57208, cost: 2 ms, unacked: 0, total push: 27
+
+2023-05-01 23:03:31,629 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 23:03:31,629 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,81072786438200
+
+2023-05-01 23:03:31,629 INFO send udp packet: 192.168.0.104,57208,81072786438200
+
+2023-05-01 23:03:31,629 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:62861, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,62861,81072786438200
+
+2023-05-01 23:03:31,629 INFO send udp packet: 192.168.0.104,62861,81072786438200
+
+2023-05-01 23:03:31,631 INFO received ack: {"type": "push-ack", "lastRefTime":"81072786438200", "data":""} from: 192.168.0.104:57208, cost: 2 ms, unacked: 1, total push: 29
+
+2023-05-01 23:03:31,631 INFO received ack: {"type": "push-ack", "lastRefTime":"81072786438200", "data":""} from: 192.168.0.104:62861, cost: 2 ms, unacked: 0, total push: 29
+
+2023-05-01 23:03:58,584 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 23:03:58,584 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,81099740593100
+
+2023-05-01 23:03:58,584 INFO send udp packet: 192.168.0.104,57208,81099740593100
+
+2023-05-01 23:03:58,584 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:59825, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,59825,81099740593100
+
+2023-05-01 23:03:58,584 INFO send udp packet: 192.168.0.104,59825,81099740593100
+
+2023-05-01 23:03:58,586 INFO received ack: {"type": "push-ack", "lastRefTime":"81099740593100", "data":""} from: 192.168.0.104:57208, cost: 2 ms, unacked: 1, total push: 31
+
+2023-05-01 23:03:58,587 INFO received ack: {"type": "push-ack", "lastRefTime":"81099740593100", "data":""} from: 192.168.0.104:59825, cost: 3 ms, unacked: 0, total push: 31
+
+2023-05-01 23:12:05,467 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 23:12:05,467 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,81586624772900
+
+2023-05-01 23:12:05,467 INFO send udp packet: 192.168.0.104,57208,81586624772900
+
+2023-05-01 23:12:05,469 INFO received ack: {"type": "push-ack", "lastRefTime":"81586624772900", "data":""} from: 192.168.0.104:57208, cost: 2 ms, unacked: 0, total push: 32
+
+2023-05-01 23:12:05,470 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:59825, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,59825,81586624772900
+
+2023-05-01 23:12:05,470 INFO send udp packet: 192.168.0.104,59825,81586624772900
+
+2023-05-01 23:12:05,472 INFO received ack: {"type": "push-ack", "lastRefTime":"81586624772900", "data":""} from: 192.168.0.104:59825, cost: 2 ms, unacked: 0, total push: 33
+
+2023-05-01 23:12:34,380 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 23:12:34,380 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50652, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50652,81615537422300
+
+2023-05-01 23:12:34,380 INFO send udp packet: 192.168.0.104,50652,81615537422300
+
+2023-05-01 23:12:34,383 INFO received ack: {"type": "push-ack", "lastRefTime":"81615537422300", "data":""} from: 192.168.0.104:50652, cost: 3 ms, unacked: 0, total push: 34
+
+2023-05-01 23:37:26,649 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 23:37:26,649 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:50652, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,50652,83107806487600
+
+2023-05-01 23:37:26,649 INFO send udp packet: 192.168.0.104,50652,83107806487600
+
+2023-05-01 23:37:26,650 INFO received ack: {"type": "push-ack", "lastRefTime":"83107806487600", "data":""} from: 192.168.0.104:50652, cost: 1 ms, unacked: 0, total push: 35
+
+2023-05-01 23:37:26,650 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,83107806487600
+
+2023-05-01 23:37:26,650 INFO send udp packet: 192.168.0.104,57208,83107806487600
+
+2023-05-01 23:37:26,653 INFO received ack: {"type": "push-ack", "lastRefTime":"83107806487600", "data":""} from: 192.168.0.104:57208, cost: 3 ms, unacked: 0, total push: 36
+
+2023-05-01 23:37:54,063 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 23:37:54,063 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53935, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53935,83135220568800
+
+2023-05-01 23:37:54,063 INFO send udp packet: 192.168.0.104,53935,83135220568800
+
+2023-05-01 23:37:54,064 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,83135220568800
+
+2023-05-01 23:37:54,064 INFO send udp packet: 192.168.0.104,57208,83135220568800
+
+2023-05-01 23:37:54,066 INFO received ack: {"type": "push-ack", "lastRefTime":"83135220568800", "data":""} from: 192.168.0.104:57208, cost: 2 ms, unacked: 1, total push: 38
+
+2023-05-01 23:37:54,067 INFO received ack: {"type": "push-ack", "lastRefTime":"83135220568800", "data":""} from: 192.168.0.104:53935, cost: 4 ms, unacked: 0, total push: 38
+
+2023-05-01 23:39:48,191 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 23:39:48,191 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:53935, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,53935,83249348489100
+
+2023-05-01 23:39:48,191 INFO send udp packet: 192.168.0.104,53935,83249348489100
+
+2023-05-01 23:39:48,191 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:57208, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,57208,83249348489100
+
+2023-05-01 23:39:48,191 INFO send udp packet: 192.168.0.104,57208,83249348489100
+
+2023-05-01 23:39:48,194 INFO received ack: {"type": "push-ack", "lastRefTime":"83249348489100", "data":""} from: 192.168.0.104:57208, cost: 3 ms, unacked: 1, total push: 40
+
+2023-05-01 23:39:48,194 INFO received ack: {"type": "push-ack", "lastRefTime":"83249348489100", "data":""} from: 192.168.0.104:53935, cost: 3 ms, unacked: 0, total push: 40
+
+2023-05-01 23:40:16,597 INFO DEFAULT_GROUP@@RecogInfo is changed, add it to push queue.
+
+2023-05-01 23:40:16,597 INFO serviceName: DEFAULT_GROUP@@RecogInfo changed, schedule push for: 192.168.0.104:63358, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.104,63358,83277754044700
+
+2023-05-01 23:40:16,597 INFO send udp packet: 192.168.0.104,63358,83277754044700
+
+2023-05-01 23:40:16,604 INFO received ack: {"type": "push-ack", "lastRefTime":"83277754044700", "data":""} from: 192.168.0.104:63358, cost: 7 ms, unacked: 0, total push: 41
+

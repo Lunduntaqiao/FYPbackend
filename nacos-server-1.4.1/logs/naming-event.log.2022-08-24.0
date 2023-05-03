@@ -1,0 +1,1482 @@
+2022-08-24 00:00:39,227 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:00:39,227 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 00:00:39,324 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:00:39,324 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 00:01:02,669 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:01:02,669 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 00:02:09,359 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661270511506
+
+2022-08-24 00:02:14,620 INFO service: DEFAULT_GROUP@@relationcontro {POS} {IP-ENABLED} valid: 192.168.1.3:9903@DEFAULT, region: unknown, msg: client beat ok
+
+2022-08-24 00:07:32,258 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:07:32,258 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 00:07:32,278 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:07:32,278 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 
+
+2022-08-24 00:07:32,325 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:07:32,325 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 00:07:32,339 INFO DEFAULT_GROUP@@systemcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:07:32,339 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@systemcontro, ips: 
+
+2022-08-24 00:07:32,367 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:07:32,367 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 
+
+2022-08-24 00:07:32,371 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:07:32,371 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 00:07:32,388 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:07:32,388 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-08-24 00:07:32,440 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:07:32,440 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 
+
+2022-08-24 00:07:32,450 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:07:32,450 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 
+
+2022-08-24 00:07:32,461 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:07:32,461 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 00:07:32,484 INFO DEFAULT_GROUP@@wordcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8909:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 00:07:32,484 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@wordcontro, ips: 
+
+2022-08-24 10:12:24,717 INFO DEFAULT_GROUP@@reportcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:12:24,719 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@reportcontro, ips: 192.168.1.3:9201_true,
+
+2022-08-24 10:12:33,168 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:12:33,168 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 192.168.1.3:8906_true,
+
+2022-08-24 10:12:36,142 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:12:36,142 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 192.168.1.3:8901_true,
+
+2022-08-24 10:12:39,339 INFO DEFAULT_GROUP@@systemcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:12:39,339 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@systemcontro, ips: 192.168.1.3:8910_true,
+
+2022-08-24 10:12:45,250 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:12:45,250 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:12:46,578 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:12:46,578 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:12:48,774 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:12:48,774 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 192.168.1.3:8902_true,
+
+2022-08-24 10:12:51,993 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:12:51,993 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 192.168.1.3:8907_true,
+
+2022-08-24 10:12:55,038 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:12:55,039 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 10:12:58,204 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:12:58,204 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 192.168.1.3:8905_true,
+
+2022-08-24 10:13:01,310 INFO DEFAULT_GROUP@@wordcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8909:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:13:01,310 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@wordcontro, ips: 192.168.1.3:8909_true,
+
+2022-08-24 10:13:05,463 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:13:05,463 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 10:13:07,256 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:13:07,257 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.1.3:10010_true,
+
+2022-08-24 10:18:41,431 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:18:41,431 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:18:49,919 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:18:49,919 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:19:08,970 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:19:08,970 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:28:34,487 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:28:34,487 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:28:57,322 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:28:57,322 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:32:59,616 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:32:59,616 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 
+
+2022-08-24 10:33:16,698 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:33:16,698 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 192.168.1.3:8902_true,
+
+2022-08-24 10:33:57,532 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:33:57,532 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 
+
+2022-08-24 10:33:59,370 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:33:59,370 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:34:17,905 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:34:17,905 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 192.168.1.3:8902_true,
+
+2022-08-24 10:34:22,424 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:34:22,424 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:41:48,568 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:41:48,568 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:42:09,630 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:42:09,630 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:43:06,363 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:43:06,363 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:43:29,057 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:43:29,057 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:45:18,930 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661309101217
+
+2022-08-24 10:45:26,501 INFO service: DEFAULT_GROUP@@relationcontro {POS} {IP-ENABLED} valid: 192.168.1.3:9903@DEFAULT, region: unknown, msg: client beat ok
+
+2022-08-24 10:45:53,994 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661309136117
+
+2022-08-24 10:45:56,733 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 10:45:56,733 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:46:20,341 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:46:20,341 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:47:08,484 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:47:08,484 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:47:31,171 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:47:31,171 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:48:01,686 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:48:01,686 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:48:24,314 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:48:24,314 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:49:44,320 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661309367919
+
+2022-08-24 10:49:59,409 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 10:49:59,410 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:52:04,393 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:52:04,393 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:53:24,652 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:53:24,652 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:53:47,255 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:53:47,255 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:54:33,870 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:54:33,870 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 10:54:56,540 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 10:54:56,540 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 10:56:24,951 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661309766004
+
+2022-08-24 10:56:39,975 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 10:56:39,975 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:00:57,411 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:00:57,411 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:00:57,497 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:00:57,497 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:01:21,191 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:01:21,191 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:04:02,708 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661310225198
+
+2022-08-24 11:04:06,711 INFO service: DEFAULT_GROUP@@relationcontro {POS} {IP-ENABLED} valid: 192.168.1.3:9903@DEFAULT, region: unknown, msg: client beat ok
+
+2022-08-24 11:04:06,811 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:04:06,811 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:04:29,205 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:04:29,205 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:05:13,972 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:05:13,972 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:05:33,817 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:05:33,817 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:16:52,879 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:16:52,879 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:17:11,880 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:17:11,880 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:18:19,036 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661311081076
+
+2022-08-24 11:18:34,064 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 11:18:34,064 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:19:45,529 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:19:45,529 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:19:45,613 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:19:45,613 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:20:08,534 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:20:08,534 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:21:53,074 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:21:53,074 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:22:13,063 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:22:13,063 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:26:37,203 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:26:37,203 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:26:58,089 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:26:58,089 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:39:34,473 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:39:34,473 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:39:54,866 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:39:54,866 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:43:53,104 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:43:53,105 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:44:14,711 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:44:14,711 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:47:25,077 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:47:25,077 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:47:44,536 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:47:44,536 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 11:55:30,967 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:55:30,967 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 11:55:52,007 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 11:55:52,007 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 12:01:38,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661313681806
+
+2022-08-24 12:01:53,193 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 12:01:53,193 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 12:02:03,400 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:02:03,400 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 12:02:03,523 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:02:03,523 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 12:02:27,436 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:02:27,436 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 12:03:13,336 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661313776256
+
+2022-08-24 12:03:28,358 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 12:03:28,358 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 12:03:47,688 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:03:47,688 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 12:03:47,777 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:03:47,777 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 12:04:10,879 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:04:10,879 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 12:05:08,520 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661313892736
+
+2022-08-24 12:05:23,537 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 12:05:23,537 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 12:06:20,504 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:06:20,504 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 12:06:20,603 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:06:20,603 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 12:06:43,195 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:06:43,196 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 12:07:40,431 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:07:40,431 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 12:08:00,818 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:08:00,818 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 12:09:03,000 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:09:03,000 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 12:09:25,864 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:09:25,864 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 12:10:08,980 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661314190941
+
+2022-08-24 12:10:12,185 INFO service: DEFAULT_GROUP@@relationcontro {POS} {IP-ENABLED} valid: 192.168.1.3:9903@DEFAULT, region: unknown, msg: client beat ok
+
+2022-08-24 12:12:09,890 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:12:09,890 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 12:12:32,295 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:12:32,295 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 12:12:44,607 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:12:44,607 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 12:13:06,600 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:13:06,600 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 12:14:43,800 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:14:43,800 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 12:15:06,463 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 12:15:06,463 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661315383797
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8905@DEFAULT@DEFAULT_GROUP@@coursecontro, region: unknown, msg: client timeout after 15000, last beat: 1661315384234
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8906@DEFAULT@DEFAULT_GROUP@@teachercontro, region: unknown, msg: client timeout after 15000, last beat: 1661315384234
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8910@DEFAULT@DEFAULT_GROUP@@systemcontro, region: unknown, msg: client timeout after 15000, last beat: 1661315380868
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9201@DEFAULT@DEFAULT_GROUP@@reportcontro, region: unknown, msg: client timeout after 15000, last beat: 1661315380443
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8902@DEFAULT@DEFAULT_GROUP@@schoolcontro, region: unknown, msg: client timeout after 15000, last beat: 1661315381185
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8904@DEFAULT@DEFAULT_GROUP@@clascontro, region: unknown, msg: client timeout after 15000, last beat: 1661315380852
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8903@DEFAULT@DEFAULT_GROUP@@gradecontro, region: unknown, msg: client timeout after 15000, last beat: 1661315381263
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8901@DEFAULT@DEFAULT_GROUP@@usercontro, region: unknown, msg: client timeout after 15000, last beat: 1661315382376
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8909@DEFAULT@DEFAULT_GROUP@@wordcontro, region: unknown, msg: client timeout after 15000, last beat: 1661315382532
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8907@DEFAULT@DEFAULT_GROUP@@studentcontro, region: unknown, msg: client timeout after 15000, last beat: 1661315383248
+
+2022-08-24 15:15:26,154 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:10010@DEFAULT@DEFAULT_GROUP@@gateway, region: unknown, msg: client timeout after 15000, last beat: 1661315383012
+
+2022-08-24 15:15:26,160 INFO DEFAULT_GROUP@@systemcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8910:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,160 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@systemcontro, ips: 
+
+2022-08-24 15:15:26,160 INFO DEFAULT_GROUP@@reportcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9201:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,160 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@reportcontro, ips: 
+
+2022-08-24 15:15:26,160 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,160 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 
+
+2022-08-24 15:15:26,160 INFO DEFAULT_GROUP@@wordcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8909:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,160 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@wordcontro, ips: 
+
+2022-08-24 15:15:26,160 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,160 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 15:15:26,170 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,170 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 
+
+2022-08-24 15:15:26,170 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,170 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 
+
+2022-08-24 15:15:26,170 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,170 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 
+
+2022-08-24 15:15:26,170 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,170 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-08-24 15:15:26,170 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,170 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 15:15:26,170 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,170 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 15:15:26,170 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 15:15:26,170 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 15:15:26,389 INFO DEFAULT_GROUP@@reportcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:26,389 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@reportcontro, ips: 192.168.1.3:9201_true,
+
+2022-08-24 15:15:26,791 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:26,791 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 15:15:26,806 INFO DEFAULT_GROUP@@systemcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:26,806 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@systemcontro, ips: 192.168.1.3:8910_true,
+
+2022-08-24 15:15:27,123 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:27,123 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 192.168.1.3:8902_true,
+
+2022-08-24 15:15:27,202 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:27,202 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 15:15:28,320 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:28,320 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 192.168.1.3:8901_true,
+
+2022-08-24 15:15:28,477 INFO DEFAULT_GROUP@@wordcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8909:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:28,477 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@wordcontro, ips: 192.168.1.3:8909_true,
+
+2022-08-24 15:15:28,948 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:28,948 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.1.3:10010_true,
+
+2022-08-24 15:15:29,183 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:29,183 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 192.168.1.3:8907_true,
+
+2022-08-24 15:15:29,735 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:29,735 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 15:15:30,174 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:30,174 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 192.168.1.3:8905_true,
+
+2022-08-24 15:15:30,174 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:30,174 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 192.168.1.3:8906_true,
+
+2022-08-24 15:15:36,982 INFO DEFAULT_GROUP@@reportcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:36,982 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@reportcontro, ips: 
+
+2022-08-24 15:15:36,982 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:36,982 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 
+
+2022-08-24 15:15:37,067 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:37,067 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 15:15:37,068 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:37,068 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 15:15:37,113 INFO DEFAULT_GROUP@@systemcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:37,113 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@systemcontro, ips: 
+
+2022-08-24 15:15:37,144 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:37,144 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 
+
+2022-08-24 15:15:37,169 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:37,169 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 
+
+2022-08-24 15:15:37,200 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:37,200 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 15:15:37,226 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:37,226 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 
+
+2022-08-24 15:15:37,226 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:37,226 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-08-24 15:15:37,292 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:37,292 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 15:15:37,292 INFO DEFAULT_GROUP@@wordcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8909:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:15:37,292 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@wordcontro, ips: 
+
+2022-08-24 15:25:30,066 INFO DEFAULT_GROUP@@reportcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:25:30,068 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@reportcontro, ips: 192.168.1.3:9201_true,
+
+2022-08-24 15:25:38,333 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:25:38,333 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 192.168.1.3:8906_true,
+
+2022-08-24 15:25:41,254 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:25:41,255 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 192.168.1.3:8901_true,
+
+2022-08-24 15:25:44,700 INFO DEFAULT_GROUP@@systemcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:25:44,700 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@systemcontro, ips: 192.168.1.3:8910_true,
+
+2022-08-24 15:25:50,899 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:25:50,899 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 15:25:53,721 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:25:53,721 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 192.168.1.3:8902_true,
+
+2022-08-24 15:25:56,804 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:25:56,804 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 192.168.1.3:8907_true,
+
+2022-08-24 15:25:59,939 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:25:59,939 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 15:26:03,074 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:26:03,074 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 192.168.1.3:8905_true,
+
+2022-08-24 15:26:05,728 INFO DEFAULT_GROUP@@wordcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8909:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:26:05,728 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@wordcontro, ips: 192.168.1.3:8909_true,
+
+2022-08-24 15:26:09,006 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:26:09,007 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 15:26:10,475 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 15:26:10,476 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.1.3:10010_true,
+
+2022-08-24 16:00:50,247 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:00:50,248 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 16:01:13,797 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:01:13,797 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 16:08:38,076 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:08:38,076 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 16:08:40,507 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:08:40,507 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-08-24 16:08:56,984 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:08:56,985 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.1.3:10010_true,
+
+2022-08-24 16:09:00,656 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:09:00,656 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 16:10:04,960 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661328585473
+
+2022-08-24 16:10:20,078 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 16:10:20,078 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 16:10:37,297 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:10:37,297 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 16:10:37,382 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:10:37,382 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 16:11:01,651 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:11:01,651 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 16:14:26,724 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:14:26,724 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 16:14:47,150 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:14:47,150 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 16:15:28,052 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:15:28,052 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 16:15:51,594 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:15:51,594 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 16:19:15,211 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:19:15,211 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 16:19:35,718 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:19:35,718 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 16:25:35,354 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:25:35,354 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 16:26:25,278 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:26:25,278 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 16:27:10,901 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:27:10,901 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 16:27:32,853 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:27:32,853 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 16:53:14,960 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:53:14,960 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 16:53:49,875 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:53:49,875 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 16:59:36,446 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:59:36,446 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 16:59:59,563 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 16:59:59,563 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 17:07:29,399 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:07:29,399 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 17:07:52,883 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:07:52,883 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 192.168.1.3:8901_true,
+
+2022-08-24 17:08:25,889 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8901@DEFAULT@DEFAULT_GROUP@@usercontro, region: unknown, msg: client timeout after 15000, last beat: 1661332087918
+
+2022-08-24 17:08:40,915 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 17:08:40,915 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 17:09:07,824 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:09:07,824 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 192.168.1.3:8901_true,
+
+2022-08-24 17:09:35,989 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8901@DEFAULT@DEFAULT_GROUP@@usercontro, region: unknown, msg: client timeout after 15000, last beat: 1661332160891
+
+2022-08-24 17:09:51,019 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 17:09:51,019 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 17:10:38,021 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:10:38,021 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 192.168.1.3:8901_true,
+
+2022-08-24 17:10:38,401 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:10:38,401 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 17:11:03,321 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:11:03,321 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 192.168.1.3:8901_true,
+
+2022-08-24 17:12:50,940 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:12:50,940 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 17:13:27,063 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:13:27,063 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 192.168.1.3:8901_true,
+
+2022-08-24 17:17:27,086 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:17:27,086 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 17:18:01,869 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:18:01,869 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 192.168.1.3:8901_true,
+
+2022-08-24 17:52:51,946 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:52:51,946 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 17:53:16,568 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:53:16,569 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 17:54:03,684 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8903@DEFAULT@DEFAULT_GROUP@@gradecontro, region: unknown, msg: client timeout after 15000, last beat: 1661334826618
+
+2022-08-24 17:54:18,705 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 17:54:18,705 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 17:54:47,842 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:54:47,842 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 17:54:48,051 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:54:48,051 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 17:55:06,679 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:55:06,679 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 17:57:05,684 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:57:05,684 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 17:57:24,658 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:57:24,658 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 17:58:55,466 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:58:55,466 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 17:59:19,818 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 17:59:19,818 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 18:04:25,263 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 18:04:25,263 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 18:04:28,950 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 18:04:28,950 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 18:04:45,163 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 18:04:45,163 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 18:04:56,373 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 18:04:56,373 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 18:05:57,205 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 18:05:57,205 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 18:05:58,708 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 18:05:58,708 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 18:08:33,028 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 18:08:33,029 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 18:08:41,611 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 18:08:41,611 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 19:00:12,723 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9201@DEFAULT@DEFAULT_GROUP@@reportcontro, region: unknown, msg: client timeout after 15000, last beat: 1661336341093
+
+2022-08-24 19:00:12,723 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8902@DEFAULT@DEFAULT_GROUP@@schoolcontro, region: unknown, msg: client timeout after 15000, last beat: 1661336344786
+
+2022-08-24 19:00:12,723 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8910@DEFAULT@DEFAULT_GROUP@@systemcontro, region: unknown, msg: client timeout after 15000, last beat: 1661336345420
+
+2022-08-24 19:00:12,723 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:10010@DEFAULT@DEFAULT_GROUP@@gateway, region: unknown, msg: client timeout after 15000, last beat: 1661336342411
+
+2022-08-24 19:00:12,723 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8909@DEFAULT@DEFAULT_GROUP@@wordcontro, region: unknown, msg: client timeout after 15000, last beat: 1661336341869
+
+2022-08-24 19:00:12,723 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661336344428
+
+2022-08-24 19:00:12,724 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8904@DEFAULT@DEFAULT_GROUP@@clascontro, region: unknown, msg: client timeout after 15000, last beat: 1661336342955
+
+2022-08-24 19:00:12,724 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8901@DEFAULT@DEFAULT_GROUP@@usercontro, region: unknown, msg: client timeout after 15000, last beat: 1661336343000
+
+2022-08-24 19:00:12,724 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8903@DEFAULT@DEFAULT_GROUP@@gradecontro, region: unknown, msg: client timeout after 15000, last beat: 1661336344336
+
+2022-08-24 19:00:12,724 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8907@DEFAULT@DEFAULT_GROUP@@studentcontro, region: unknown, msg: client timeout after 15000, last beat: 1661336342891
+
+2022-08-24 19:00:12,724 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8905@DEFAULT@DEFAULT_GROUP@@coursecontro, region: unknown, msg: client timeout after 15000, last beat: 1661336344152
+
+2022-08-24 19:00:12,724 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8906@DEFAULT@DEFAULT_GROUP@@teachercontro, region: unknown, msg: client timeout after 15000, last beat: 1661336344614
+
+2022-08-24 19:00:12,732 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,732 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 
+
+2022-08-24 19:00:12,732 INFO DEFAULT_GROUP@@reportcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9201:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,732 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@reportcontro, ips: 
+
+2022-08-24 19:00:12,732 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,732 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 
+
+2022-08-24 19:00:12,740 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,740 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 19:00:12,740 INFO DEFAULT_GROUP@@systemcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8910:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,740 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@systemcontro, ips: 
+
+2022-08-24 19:00:12,740 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,740 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 19:00:12,740 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,740 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 19:00:12,740 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,740 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-08-24 19:00:12,740 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,740 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 
+
+2022-08-24 19:00:12,741 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,741 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 
+
+2022-08-24 19:00:12,741 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,741 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 19:00:12,741 INFO DEFAULT_GROUP@@wordcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8909:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:00:12,741 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@wordcontro, ips: 
+
+2022-08-24 19:00:12,864 INFO DEFAULT_GROUP@@reportcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:12,864 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@reportcontro, ips: 192.168.1.3:9201_true,
+
+2022-08-24 19:00:13,627 INFO DEFAULT_GROUP@@wordcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8909:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:13,627 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@wordcontro, ips: 192.168.1.3:8909_true,
+
+2022-08-24 19:00:14,174 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:14,174 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.1.3:10010_true,
+
+2022-08-24 19:00:14,662 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:14,662 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 192.168.1.3:8907_true,
+
+2022-08-24 19:00:14,722 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:14,722 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 19:00:14,767 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:14,767 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 192.168.1.3:8901_true,
+
+2022-08-24 19:00:15,924 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:15,924 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 192.168.1.3:8905_true,
+
+2022-08-24 19:00:16,107 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:16,107 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 19:00:16,201 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:16,201 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 19:00:16,375 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:16,375 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 192.168.1.3:8906_true,
+
+2022-08-24 19:00:16,556 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:16,556 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 192.168.1.3:8902_true,
+
+2022-08-24 19:00:17,179 INFO DEFAULT_GROUP@@systemcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:00:17,179 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@systemcontro, ips: 192.168.1.3:8910_true,
+
+2022-08-24 19:01:55,186 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:01:55,186 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 19:02:17,146 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:02:17,146 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 19:05:35,519 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:05:35,519 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 19:05:57,725 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:05:57,725 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 19:07:09,185 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:07:09,185 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 19:07:25,306 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:07:25,306 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 19:08:03,484 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8903@DEFAULT@DEFAULT_GROUP@@gradecontro, region: unknown, msg: client timeout after 15000, last beat: 1661339265362
+
+2022-08-24 19:08:10,588 INFO service: DEFAULT_GROUP@@gradecontro {POS} {IP-ENABLED} valid: 192.168.1.3:8903@DEFAULT, region: unknown, msg: client beat ok
+
+2022-08-24 19:08:13,198 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:08:13,198 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 19:08:32,481 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:08:32,481 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 19:10:05,897 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:10:05,897 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 19:10:31,570 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:10:31,570 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 19:17:51,631 INFO DEFAULT_GROUP@@reportcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,631 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@reportcontro, ips: 
+
+2022-08-24 19:17:51,642 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,642 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 19:17:51,721 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,721 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 
+
+2022-08-24 19:17:51,722 INFO DEFAULT_GROUP@@systemcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,722 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@systemcontro, ips: 
+
+2022-08-24 19:17:51,774 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,774 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 19:17:51,789 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,789 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 
+
+2022-08-24 19:17:51,794 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,794 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 19:17:51,827 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,827 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-08-24 19:17:51,857 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,857 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 
+
+2022-08-24 19:17:51,866 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,866 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
+2022-08-24 19:17:51,883 INFO DEFAULT_GROUP@@wordcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8909:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,883 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@wordcontro, ips: 
+
+2022-08-24 19:17:51,909 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:17:51,909 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 
+
+2022-08-24 19:18:08,700 INFO DEFAULT_GROUP@@wordcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8909:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:18:08,700 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@wordcontro, ips: 192.168.1.3:8909_true,
+
+2022-08-24 19:18:12,038 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:18:12,038 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 192.168.1.3:8903_true,
+
+2022-08-24 19:18:14,020 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:18:14,020 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.1.3:10010_true,
+
+2022-08-24 19:18:18,764 INFO DEFAULT_GROUP@@reportcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:18:18,764 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@reportcontro, ips: 192.168.1.3:9201_true,
+
+2022-08-24 19:18:25,533 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:18:25,533 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 192.168.1.3:8906_true,
+
+2022-08-24 19:18:30,991 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:18:30,991 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 192.168.1.3:8901_true,
+
+2022-08-24 19:18:37,339 INFO DEFAULT_GROUP@@systemcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:18:37,339 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@systemcontro, ips: 192.168.1.3:8910_true,
+
+2022-08-24 19:18:43,046 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:18:43,046 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 19:18:48,492 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:18:48,492 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 192.168.1.3:8902_true,
+
+2022-08-24 19:18:54,245 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:18:54,245 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 192.168.1.3:8907_true,
+
+2022-08-24 19:18:59,819 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:18:59,819 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 19:19:04,549 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:19:04,549 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 192.168.1.3:8905_true,
+
+2022-08-24 19:27:35,443 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:27:35,443 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 
+
+2022-08-24 19:27:37,632 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:27:37,632 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 19:27:55,422 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:27:55,422 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 19:27:58,668 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:27:58,668 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 192.168.1.3:8905_true,
+
+2022-08-24 19:31:28,582 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:31:28,582 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 19:31:50,806 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:31:50,806 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 19:35:32,740 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:35:32,741 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 19:35:48,280 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:35:48,280 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 19:36:28,093 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:8904@DEFAULT@DEFAULT_GROUP@@clascontro, region: unknown, msg: client timeout after 15000, last beat: 1661340970926
+
+2022-08-24 19:36:43,120 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 19:36:43,120 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 19:37:06,884 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:37:06,884 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 19:37:06,990 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:37:06,990 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 19:37:25,673 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:37:25,673 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 192.168.1.3:8904_true,
+
+2022-08-24 19:40:15,588 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:40:15,588 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 
+
+2022-08-24 19:40:34,251 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:40:34,251 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 192.168.1.3:8905_true,
+
+2022-08-24 19:42:30,951 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:42:30,951 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 
+
+2022-08-24 19:42:50,788 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 19:42:50,788 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 192.168.1.3:8905_true,
+
+2022-08-24 20:30:36,457 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 20:30:36,457 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 
+
+2022-08-24 20:30:59,092 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 20:30:59,092 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 192.168.1.3:8906_true,
+
+2022-08-24 20:33:59,903 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 20:33:59,903 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 
+
+2022-08-24 20:34:21,682 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 20:34:21,682 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 192.168.1.3:8906_true,
+
+2022-08-24 20:37:53,041 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 20:37:53,041 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 
+
+2022-08-24 20:38:13,527 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 20:38:13,527 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 192.168.1.3:8907_true,
+
+2022-08-24 20:49:53,207 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 20:49:53,207 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 20:50:14,878 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 20:50:14,878 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 20:57:01,546 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 20:57:01,546 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 20:57:24,225 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 20:57:24,225 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 20:59:36,028 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661345956958
+
+2022-08-24 20:59:36,741 INFO service: DEFAULT_GROUP@@relationcontro {POS} {IP-ENABLED} valid: 192.168.1.3:9903@DEFAULT, region: unknown, msg: client beat ok
+
+2022-08-24 20:59:56,050 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661345976738
+
+2022-08-24 21:00:11,086 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 21:00:11,086 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:00:19,770 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:00:19,770 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:00:19,980 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:00:19,980 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:00:42,346 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:00:42,346 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:08:48,811 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:08:48,811 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:09:13,958 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:09:13,958 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:14:24,331 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:14:24,331 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:15:30,775 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:15:30,775 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:30:45,267 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:30:45,267 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:31:07,158 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:31:07,158 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:34:48,620 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:34:48,620 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:35:12,001 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:35:12,001 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:35:49,476 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661348131789
+
+2022-08-24 21:36:04,506 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 21:36:04,506 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:36:14,879 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:36:14,879 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:37:19,631 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661348220229
+
+2022-08-24 21:37:34,654 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 21:37:34,654 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:37:42,224 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:37:42,224 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:41:37,871 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:41:37,871 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:41:49,521 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:41:49,521 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:44:42,226 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:44:42,226 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:45:05,347 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:45:05,347 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:47:17,779 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:47:17,779 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:47:40,505 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:47:40,505 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:48:35,695 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661348899667
+
+2022-08-24 21:48:50,720 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 21:48:50,720 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:49:21,126 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:49:21,127 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:49:21,326 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:49:21,326 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:49:33,876 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:49:33,876 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 127.0.0.1:9903_true,
+
+2022-08-24 21:51:25,682 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:51:25,682 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:51:47,854 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:51:47,854 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 127.0.0.1:9903_true,
+
+2022-08-24 21:52:34,948 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:52:34,948 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:52:54,758 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:52:54,758 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:53:47,676 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:53:47,676 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:54:09,178 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:54:09,178 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 127.0.0.1:9903_true,
+
+2022-08-24 21:54:44,041 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:54:44,041 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:55:04,270 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:55:04,270 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:55:29,014 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:55:29,014 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:55:54,536 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:55:54,536 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:56:54,710 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:56:54,710 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:57:20,868 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:57:20,868 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:58:03,189 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:58:03,189 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 21:58:27,639 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:58:27,639 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 21:59:44,256 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 21:59:44,256 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 22:00:05,507 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:00:05,507 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 22:05:42,350 INFO {POS} {IP-DISABLED} valid: 192.168.1.3:9903@DEFAULT@DEFAULT_GROUP@@relationcontro, region: unknown, msg: client timeout after 15000, last beat: 1661349926958
+
+2022-08-24 22:05:57,377 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-08-24 22:05:57,377 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 22:06:05,151 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:05,151 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 192.168.1.3:9903_true,
+
+2022-08-24 22:06:08,650 INFO DEFAULT_GROUP@@teachercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8906:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,651 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@teachercontro, ips: 
+
+2022-08-24 22:06:08,675 INFO DEFAULT_GROUP@@reportcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,675 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@reportcontro, ips: 
+
+2022-08-24 22:06:08,733 INFO DEFAULT_GROUP@@relationcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:9903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,733 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@relationcontro, ips: 
+
+2022-08-24 22:06:08,763 INFO DEFAULT_GROUP@@usercontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8901:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,763 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@usercontro, ips: 
+
+2022-08-24 22:06:08,801 INFO DEFAULT_GROUP@@studentcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8907:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,801 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@studentcontro, ips: 
+
+2022-08-24 22:06:08,829 INFO DEFAULT_GROUP@@schoolcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8902:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,829 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@schoolcontro, ips: 
+
+2022-08-24 22:06:08,843 INFO DEFAULT_GROUP@@systemcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,843 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@systemcontro, ips: 
+
+2022-08-24 22:06:08,846 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,846 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-08-24 22:06:08,867 INFO DEFAULT_GROUP@@clascontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8904:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,868 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@clascontro, ips: 
+
+2022-08-24 22:06:08,895 INFO DEFAULT_GROUP@@coursecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8905:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,895 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@coursecontro, ips: 
+
+2022-08-24 22:06:08,924 INFO DEFAULT_GROUP@@wordcontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8909:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,924 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@wordcontro, ips: 
+
+2022-08-24 22:06:08,954 INFO DEFAULT_GROUP@@gradecontro {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.3:8903:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-08-24 22:06:08,954 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gradecontro, ips: 
+
