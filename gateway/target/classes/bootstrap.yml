@@ -1,0 +1,49 @@
+server:
+  port: 10010
+spring:
+  application:
+    name: GatewayApplication
+  cloud:
+    nacos:
+      discovery:
+        enabled: true
+        service: gateway
+        server-addr: 127.0.0.1:8848
+
+    gateway:
+      httpclient:
+        connect-timeout: 100000
+        response-timeout: 500000
+      discovery:
+        locator:
+          enabled: true  # 让gateway可以发现nacos中的微服
+
+      routes:
+        - id: RecogInfo
+          uri: lb://RecogInfo
+          predicates:
+            - Path=/Recog/**
+#          filters:
+#            - PrefixPath=/user
+
+        - id: attendinfo
+          uri: lb://attendinfo
+          predicates:
+            - Path=/temporAttend/**,/attend/**
+
+#      globalcors: # 全局的跨域处理 请问哇哇哇哇
+#        add-to-simple-url-handler-mapping: true # 因为ajax发起者会通过options请求来向服务器询问是否允许跨域，所以需要设置为true来解决options请求被拦截问题
+#        corsConfigurations:
+#          '[/**]':
+#            allowedOrigins: # 允许哪些网站的跨域请求
+#              - "http://localhost:8088"
+#              - "http://localhost:8085"
+#            allowedMethods: # 允许的跨域ajax的请求方式
+#              - "GET"
+#              - "POST"
+#              - "DELETE"
+#              - "PUT"
+#              - "OPTIONS"
+#            allowedHeaders: "*" # 允许在请求中携带的头信息
+#            allowCredentials: true # 是否允许携带cookie
+#            maxAge: 360000 # 这次跨域检测的有效期，即一定时间内就不需要重复询问是否允许跨域了，直接请求即可。

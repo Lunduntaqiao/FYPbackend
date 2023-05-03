@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Attendance" />
+        <module name="FaceRecognition" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Attendance" target="1.8" />
+      <module name="clouddubboapi" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="FaceLibrary" target="1.8" />
+      <module name="FaceRecognition" target="1.8" />
+      <module name="FaceRecognition1" target="1.8" />
+      <module name="FYPbackend" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="StudentInfo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Attendance" options="-parameters" />
+      <module name="FYPbackend" options="" />
+      <module name="FaceLibrary" options="-parameters" />
+      <module name="FaceRecognition" options="-parameters" />
+      <module name="FaceRecognition1" options="-parameters" />
+      <module name="StudentInfo" options="-parameters" />
+      <module name="clouddubboapi" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+    </option>
+  </component>
+</project>

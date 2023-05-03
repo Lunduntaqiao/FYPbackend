@@ -1,0 +1,36 @@
+server:
+  port: 8082
+spring:
+  jackson:
+    time-zone: GMT+8
+  application:
+    name: FaceRecognitionApplication
+  cloud:
+    nacos:
+      config:
+        username: nacos
+        password: Huang19568
+      discovery:
+        enabled: true
+        service: RecogInfo
+        server-addr: 127.0.0.1:8848
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    password: huang19568
+    url: jdbc:mysql://127.0.0.1:3306/student?serverTimezone=GMT%2b8&useUnicode=true&characterEncoding=utf8&useSSL=false
+    username: root
+  jpa:
+    database: mysql
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
+    show-sql: true
+feign:
+  client:
+    config:
+      default:
+        connect-timeout: 10000
+        read-timeout: 10000

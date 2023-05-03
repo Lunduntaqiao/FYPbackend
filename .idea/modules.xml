@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Attendance/Attendance.iml" filepath="$PROJECT_DIR$/Attendance/Attendance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FYPbackend.iml" filepath="$PROJECT_DIR$/FYPbackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaceRecognition/FaceRecognition.iml" filepath="$PROJECT_DIR$/FaceRecognition/FaceRecognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+    </modules>
+  </component>
+</project>
